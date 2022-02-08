@@ -981,3 +981,463 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.08-21.25.16:184][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.02.08-21.25.16:187][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
 [2022.02.08-21.25.16:239][570]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.02.08-21.28.05:285][181]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/FirstPersonBP/EnemyMelee_Animation.EnemyMelee_Animation
+[2022.02.08-21.28.05:301][181]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2022.02.08-21.28.05:307][181]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.02.08-21.28.05:373][181]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.02.08-21.28.05:442][181]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.08-21.28.05:446][181]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2022.02.08-21.28.05:691][181]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.02.08-21.28.06:680][181]LogSlate: Took 0.000592 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.02.08-21.28.06:736][181]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.02.08-21.28.06:763][182]LogSlate: Took 0.000766 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.02.08-21.28.20:131][964]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/ParagonKallari/Characters/Heroes/Kallari/Animations/Blendspaces/KuroV2_Jog_Blendspace.KuroV2_Jog_Blendspace
+[2022.02.08-21.28.20:142][964]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.08-21.28.20:635][964]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.02.08-21.29.30:225][103]LogSlate: Window 'EnemyMelee_Animation' being destroyed
+[2022.02.08-21.29.30:229][103]LogSlate: Window 'EnemyMelee_Animation' being destroyed
+[2022.02.08-21.29.30:235][103]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.02.08-21.29.30:235][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-21.29.30:244][103]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.02.08-21.29.30:244][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-21.29.30:312][103]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.02.08-21.29.30:312][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-21.29.43:738][877]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ParagonKallari/Characters/Heroes/Kallari/Animations/Attack_Melee_C_Dash.Attack_Melee_C_Dash
+[2022.02.08-21.29.47:723][108]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.02.08-21.29.47:723][108]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-21.30.14:573][716]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/ParagonKallari/Characters/Heroes/Kallari/Meshes/Kallari_Skeleton.Kallari_Skeleton
+[2022.02.08-21.30.14:577][716]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.08-21.30.14:806][717]LogRenderer: Reallocating scene render targets to support 1176x884 Format 10 NumSamples 1 (Frame:1).
+[2022.02.08-21.35.57:610][269]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2022.02.08-21.35.57:617][269]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.122
+[2022.02.08-21.35.57:619][269]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ParagonKallari/Characters/Heroes/Kallari/Meshes/Kallari_Skeleton] ([1] browsable assets)...
+[2022.02.08-21.35.57:619][269]OBJ SavePackage: Finished generating thumbnails for package [/Game/ParagonKallari/Characters/Heroes/Kallari/Meshes/Kallari_Skeleton]
+[2022.02.08-21.35.57:628][269]LogSavePackage: Moving '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/Kallari_Skeleton_Auto176E952F1417787B34CAAB2A7CF8BBBDA.tmp' to '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/Autosaves/Game/ParagonKallari/Characters/Heroes/Kallari/Meshes/Kallari_Skeleton_Auto1.uasset'
+[2022.02.08-21.35.57:630][269]LogFileHelpers: Auto-saving content packages took 0.012
+[2022.02.08-21.39.17:728][756]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Enemy_Melee.Enemy_Melee
+[2022.02.08-21.41.03:189][262]LogSlate: Window 'Enemy_Melee' being destroyed
+[2022.02.08-21.41.04:373][333]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.02.08-21.41.04:373][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-21.41.04:994][368]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.02.08-21.41.04:994][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-21.41.05:033][368]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.02.08-21.41.05:033][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-21.41.14:641][929]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2022.02.08-21.41.14:657][929]LogContentBrowser: Creating deferred item: NewInterface
+[2022.02.08-21.41.22:779][417]LogContentBrowser: Attempting asset rename: NewInterface -> EnemyDamage
+[2022.02.08-21.41.22:781][417]LogContentBrowser: End creating deferred item NewInterface
+[2022.02.08-21.41.46:108][815]LogContentBrowser: Attempting asset rename: EnemyDamage -> BPI_EnemyDamage
+[2022.02.08-21.41.46:128][815]LogMetaData: Removing '/Game/FirstPersonBP/BPI_EnemyDamage.SKEL_BPI_EnemyDamage_C' ref from Metadata '/Game/FirstPersonBP/EnemyDamage.PackageMetaData'
+[2022.02.08-21.41.46:128][815]LogMetaData: Removing '/Game/FirstPersonBP/BPI_EnemyDamage.BPI_EnemyDamage_C' ref from Metadata '/Game/FirstPersonBP/EnemyDamage.PackageMetaData'
+[2022.02.08-21.41.46:151][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/BPI_EnemyDamage" FILE="../../../../../../UnrealProjects/Projekt/DeadVoid/Content/FirstPersonBP/BPI_EnemyDamage.uasset" SILENT=true
+[2022.02.08-21.41.46:153][815]LogSavePackage: Moving '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/BPI_EnemyDamage63AAD9E647992E61D2B199822C5CC19F.tmp' to '../../../../../../UnrealProjects/Projekt/DeadVoid/Content/FirstPersonBP/BPI_EnemyDamage.uasset'
+[2022.02.08-21.41.46:278][815]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2022.02.08-21.41.46:307][815]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.02.08-21.41.46:322][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.02.08-21.41.46:362][815]AssetCheck: New page: Asset Save: BPI_EnemyDamage
+[2022.02.08-21.41.46:362][815]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/BPI_EnemyDamage.BPI_EnemyDamage
+[2022.02.08-21.41.47:213][865]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/BPI_EnemyDamage.BPI_EnemyDamage
+[2022.02.08-21.42.23:353][483]BlueprintLog: New page: Compile BPI_EnemyDamage
+[2022.02.08-21.42.23:371][483]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.02.08-21.42.36:787][200]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.08-21.42.56:072][879]BlueprintLog: New page: Compile Enemy_Melee
+[2022.02.08-21.42.56:110][879]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.02.08-21.42.56:140][879]LogSlate: Took 0.000502 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.02.08-21.43.34:260][449]LogSlate: Took 0.000549 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.02.08-21.43.38:088][678]BlueprintLog: New page: Compile Enemy_Melee
+[2022.02.08-21.43.38:123][678]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.02.08-21.43.57:763][601]BlueprintLog: New page: Compile Enemy_Melee
+[2022.02.08-21.43.57:801][601]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.02.08-21.44.22:650][113]BlueprintLog: New page: Compile Enemy_Melee
+[2022.02.08-21.44.22:687][113]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.02.08-21.45.00:119][611]BlueprintLog: New page: Compile BPI_EnemyDamage
+[2022.02.08-21.45.00:139][611]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.02.08-21.47.32:945][ 22]BlueprintLog: New page: Compile Enemy_Melee
+[2022.02.08-21.47.32:983][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.02.08-21.47.33:252][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.02.08-21.47.33:276][ 35]LogSavePackage: Moving '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/FirstPersonExampleMap_Auto255B9B5BE423AA6E256EE72A86DE40CD6.tmp' to '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2022.02.08-21.47.33:278][ 35]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.044
+[2022.02.08-21.47.33:278][ 35]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2022.02.08-21.47.33:279][ 35]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPersonBP/Enemy_Melee] ([2] browsable assets)...
+[2022.02.08-21.47.33:298][ 35]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/FirstPersonBP/Enemy_Melee.Enemy_Melee_C]
+[2022.02.08-21.47.33:308][ 35]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Enemy_Melee.Enemy_Melee]
+[2022.02.08-21.47.33:308][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Enemy_Melee]
+[2022.02.08-21.47.33:325][ 35]LogSavePackage: Moving '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/Enemy_Melee_Auto2210B4AC8449E8D2F9CB6FC8E529BA65C.tmp' to '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/Autosaves/Game/FirstPersonBP/Enemy_Melee_Auto2.uasset'
+[2022.02.08-21.47.33:325][ 35]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/BPI_EnemyDamage] ([2] browsable assets)...
+[2022.02.08-21.47.33:326][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/BPI_EnemyDamage]
+[2022.02.08-21.47.33:327][ 35]LogSavePackage: Moving '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/BPI_EnemyDamage_Auto2314FF419405C1B60595E82A2BB478076.tmp' to '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/Autosaves/Game/FirstPersonBP/BPI_EnemyDamage_Auto2.uasset'
+[2022.02.08-21.47.33:328][ 35]LogFileHelpers: Auto-saving content packages took 0.049
+[2022.02.08-21.49.02:933][ 56]BlueprintLog: New page: Compile Enemy_Melee
+[2022.02.08-21.49.02:971][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.02.08-21.49.35:945][ 22]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2022.02.08-21.54.48:249][405]LogEditorViewport: Clicking on Actor (LMB): BP_DamageTaker_C (BP_DamageTaker)
+[2022.02.08-21.54.48:325][408]LogEditorViewport: Clicking on Component (LMB): ParticleSystemComponent (ParticleSystem)
+[2022.02.08-21.54.50:211][519]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/LevelObjects/BP_DamageTaker.BP_DamageTaker
+[2022.02.08-21.57.33:592][869]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2022.02.08-21.57.33:616][869]LogSavePackage: Moving '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/FirstPersonExampleMap_Auto3B985545A423BB6434B440FA55B14A4B8.tmp' to '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2022.02.08-21.57.33:618][869]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.052
+[2022.02.08-21.57.33:618][869]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.052
+[2022.02.08-21.57.33:618][869]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Enemy_Melee] ([2] browsable assets)...
+[2022.02.08-21.57.33:638][869]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Enemy_Melee.Enemy_Melee]
+[2022.02.08-21.57.33:638][869]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Enemy_Melee]
+[2022.02.08-21.57.33:650][869]LogSavePackage: Moving '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/Enemy_Melee_Auto3A8261F7241DEE0D449AEA1AE9E1DF559.tmp' to '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/Autosaves/Game/FirstPersonBP/Enemy_Melee_Auto3.uasset'
+[2022.02.08-21.57.33:651][869]LogFileHelpers: Auto-saving content packages took 0.033
+[2022.02.08-21.58.01:886][522]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Telekinesis/BP_TelekinetikProp.BP_TelekinetikProp
+[2022.02.08-22.07.47:345][ 82]BlueprintLog: New page: Compile BP_TelekinetikProp
+[2022.02.08-22.07.47:404][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2022.02.08-22.09.11:709][702]BlueprintLog: New page: Compile BP_TelekinetikProp
+[2022.02.08-22.09.11:757][702]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.02.08-22.09.59:970][627]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.02.08-22.09.59:995][627]LogSavePackage: Moving '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/FirstPersonExampleMap_Auto4E89BD03842E4C53BEFD6B19B22762219.tmp' to '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto4.umap'
+[2022.02.08-22.09.59:997][627]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.050
+[2022.02.08-22.09.59:997][627]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.050
+[2022.02.08-22.09.59:997][627]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Enemy_Melee] ([2] browsable assets)...
+[2022.02.08-22.10.00:014][627]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Enemy_Melee.Enemy_Melee]
+[2022.02.08-22.10.00:014][627]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Enemy_Melee]
+[2022.02.08-22.10.00:027][627]LogSavePackage: Moving '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/Enemy_Melee_Auto426D44ED84C57A2D8348C789FED3BE240.tmp' to '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/Autosaves/Game/FirstPersonBP/Enemy_Melee_Auto4.uasset'
+[2022.02.08-22.10.00:028][627]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPersonBP/Telekinesis/BP_TelekinetikProp] ([2] browsable assets)...
+[2022.02.08-22.10.00:042][627]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Telekinesis/BP_TelekinetikProp.BP_TelekinetikProp]
+[2022.02.08-22.10.00:042][627]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Telekinesis/BP_TelekinetikProp]
+[2022.02.08-22.10.00:088][627]LogSavePackage: Moving '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/BP_TelekinetikProp_Auto477629A9847A7258C2FE24084A6AAC283.tmp' to '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/Autosaves/Game/FirstPersonBP/Telekinesis/BP_TelekinetikProp_Auto4.uasset'
+[2022.02.08-22.10.00:089][627]LogFileHelpers: Auto-saving content packages took 0.092
+[2022.02.08-22.11.38:562][328]BlueprintLog: New page: Compile Enemy_Melee
+[2022.02.08-22.11.38:617][328]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.02.08-22.11.40:515][435]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.08-22.11.40:523][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.08-22.11.40:523][435]PIE: New page: PIE session: FirstPersonExampleMap (9 lut 2022, 00:11:40)
+[2022.02.08-22.11.40:523][435]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.08-22.11.40:534][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010951s)
+[2022.02.08-22.11.40:535][435]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.02.08-22.11.40:535][435]LogPlayLevel: PIE: World Init took: (0.001207s)
+[2022.02.08-22.11.40:535][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012345s)
+[2022.02.08-22.11.40:560][435]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.02.08-22.11.40:561][435]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.02.08-22.11.40:561][435]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.08-22.11.40:561][435]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.08-22.11.40:561][435]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.08-22.11.40:561][435]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.08-22.11.40:561][435]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.08-22.11.40:561][435]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.08-22.11.40:561][435]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.08-22.11.40:561][435]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.08-22.11.40:561][435]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.08-22.11.40:561][435]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.08-22.11.40:561][435]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.08-22.11.40:561][435]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.08-22.11.40:564][435]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.08-22.11.40:564][435]LogAudioMixer: Display: 1: FrontRight
+[2022.02.08-22.11.40:576][435]LogAudioMixer: Display: Using Audio Device Słuchawki (Realtek(R) Audio)
+[2022.02.08-22.11.40:577][435]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.08-22.11.40:577][435]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.08-22.11.40:577][435]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.08-22.11.40:577][435]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.08-22.11.40:577][435]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.08-22.11.40:577][435]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.08-22.11.40:578][435]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.08-22.11.40:578][435]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.08-22.11.40:578][435]LogInit: FAudioDevice initialized.
+[2022.02.08-22.11.40:578][435]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonExampleMap'.
+[2022.02.08-22.11.40:589][435]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.02.08-22.11.40:592][435]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.02.08-23.11.40
+[2022.02.08-22.11.40:592][435]LogWorld: Bringing up level for play took: 0.003175
+[2022.02.08-22.11.40:593][435]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.02.08-22.11.40:596][435]PIE: Server logged in
+[2022.02.08-22.11.40:597][435]PIE: Play in editor total start time 0,078 seconds.
+[2022.02.08-22.11.44:051][641]LogBlueprintUserMessages: [Enemy_Melee2_7] 75.0
+[2022.02.08-22.11.45:550][731]LogBlueprintUserMessages: [Enemy_Melee2_7] 50.0
+[2022.02.08-22.11.45:550][731]LogBlueprintUserMessages: [Enemy_Melee_4] 75.0
+[2022.02.08-22.11.45:683][739]LogBlueprintUserMessages: [Enemy_Melee_4] 50.0
+[2022.02.08-22.11.46:416][783]LogBlueprintUserMessages: [Enemy_Melee_4] 25.0
+[2022.02.08-22.11.46:549][791]LogBlueprintUserMessages: [Enemy_Melee_4] 0.0
+[2022.02.08-22.11.47:834][868]LogBlueprintUserMessages: [Enemy_Melee_4] -25.0
+[2022.02.08-22.11.49:217][951]LogBlueprintUserMessages: [Enemy_Melee_4] -50.0
+[2022.02.08-22.11.49:217][951]LogBlueprintUserMessages: [Enemy_Melee_4] -75.0
+[2022.02.08-22.11.49:233][952]LogBlueprintUserMessages: [Enemy_Melee2_7] 25.0
+[2022.02.08-22.11.49:234][952]LogBlueprintUserMessages: [Enemy_Melee2_7] 0.0
+[2022.02.08-22.11.49:400][962]LogBlueprintUserMessages: [Enemy_Melee_4] -100.0
+[2022.02.08-22.11.53:366][200]LogBlueprintUserMessages: [Enemy_Melee2_7] -25.0
+[2022.02.08-22.11.55:217][311]LogBlueprintUserMessages: [Enemy_Melee2_7] -50.0
+[2022.02.08-22.11.55:217][311]LogBlueprintUserMessages: [Enemy_Melee2_7] -75.0
+[2022.02.08-22.11.55:234][312]LogBlueprintUserMessages: [Enemy_Melee_4] -125.0
+[2022.02.08-22.11.55:234][312]LogBlueprintUserMessages: [Enemy_Melee_4] -150.0
+[2022.02.08-22.11.55:266][314]LogBlueprintUserMessages: [Enemy_Melee_4] -175.0
+[2022.02.08-22.11.55:283][315]LogCharacterMovement: Enemy_Melee2_7 is stuck and failed to move! Velocity: X=-14.59 Y=-187.13 Z=0.00 Location: X=554.88 Y=-321.07 Z=258.79 Normal: X=-0.03 Y=0.25 Z=-0.97 PenetrationDepth:32.787 Actor:BP_TelekinetikProp2_5 Component:StaticMesh TK BoneName:None (0 other events since notify)
+[2022.02.08-22.11.55:400][322]LogBlueprintUserMessages: [Enemy_Melee2_7] -100.0
+[2022.02.08-22.11.56:134][366]LogBlueprintUserMessages: [BP_TwoConditionTest_5] człowiek
+[2022.02.08-22.11.56:134][366]LogBlueprintUserMessages: [BP_TwoConditionTest_5] nie działa
+[2022.02.08-22.11.56:350][379]LogBlueprintUserMessages: [BP_TwoConditionTest_5] człowiek
+[2022.02.08-22.11.56:350][379]LogBlueprintUserMessages: [BP_TwoConditionTest_5] nie działa
+[2022.02.08-22.11.56:367][380]LogBlueprintUserMessages: [BP_TwoConditionTest_5] człowiek
+[2022.02.08-22.11.56:367][380]LogBlueprintUserMessages: [BP_TwoConditionTest_5] nie działa
+[2022.02.08-22.11.56:367][380]LogBlueprintUserMessages: [BP_TwoConditionTest_5] człowiek
+[2022.02.08-22.11.56:367][380]LogBlueprintUserMessages: [BP_TwoConditionTest_5] nie działa
+[2022.02.08-22.11.57:759][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.08-22.11.57:759][461]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.08-22.11.57:759][461]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.08-22.11.57:760][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-22.11.57:787][461]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.08-22.11.57:794][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-22.11.57:814][461]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.08-22.11.57:815][461]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.08-22.11.57:816][461]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.08-22.11.57:818][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.08-22.11.57:822][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.02.08-22.11.57:852][462]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.02.08-22.16.20:291][262]BlueprintLog: New page: Compile Enemy_Melee
+[2022.02.08-22.16.20:347][262]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.02.08-22.16.22:594][388]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.08-22.16.22:602][388]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.08-22.16.22:602][388]PIE: New page: PIE session: FirstPersonExampleMap (9 lut 2022, 00:16:22)
+[2022.02.08-22.16.22:602][388]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.08-22.16.22:612][388]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010360s)
+[2022.02.08-22.16.22:613][388]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.02.08-22.16.22:613][388]LogPlayLevel: PIE: World Init took: (0.001110s)
+[2022.02.08-22.16.22:613][388]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011637s)
+[2022.02.08-22.16.22:637][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.02.08-22.16.22:639][388]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.02.08-22.16.22:639][388]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.08-22.16.22:639][388]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.08-22.16.22:639][388]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.08-22.16.22:639][388]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.08-22.16.22:639][388]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.08-22.16.22:639][388]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.08-22.16.22:639][388]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.08-22.16.22:639][388]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.08-22.16.22:639][388]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.08-22.16.22:639][388]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.08-22.16.22:639][388]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.08-22.16.22:639][388]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.08-22.16.22:642][388]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.08-22.16.22:642][388]LogAudioMixer: Display: 1: FrontRight
+[2022.02.08-22.16.22:655][388]LogAudioMixer: Display: Using Audio Device Słuchawki (Realtek(R) Audio)
+[2022.02.08-22.16.22:655][388]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.08-22.16.22:655][388]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.08-22.16.22:655][388]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.08-22.16.22:656][388]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.08-22.16.22:656][388]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.08-22.16.22:656][388]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.08-22.16.22:657][388]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.08-22.16.22:657][388]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.08-22.16.22:657][388]LogInit: FAudioDevice initialized.
+[2022.02.08-22.16.22:657][388]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonExampleMap'.
+[2022.02.08-22.16.22:661][388]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.02.08-22.16.22:664][388]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.02.08-23.16.22
+[2022.02.08-22.16.22:665][388]LogWorld: Bringing up level for play took: 0.003198
+[2022.02.08-22.16.22:665][388]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.02.08-22.16.22:669][388]PIE: Server logged in
+[2022.02.08-22.16.22:670][388]PIE: Play in editor total start time 0,071 seconds.
+[2022.02.08-22.16.25:185][538]LogBlueprintUserMessages: [Enemy_Melee2_7] 75.0
+[2022.02.08-22.16.25:185][538]LogBlueprintUserMessages: [Enemy_Melee_4] 75.0
+[2022.02.08-22.16.25:185][538]LogBlueprintUserMessages: [Enemy_Melee_4] 50.0
+[2022.02.08-22.16.25:252][542]LogBlueprintUserMessages: [Enemy_Melee_4] 25.0
+[2022.02.08-22.16.25:285][544]LogBlueprintUserMessages: [Enemy_Melee2_7] 50.0
+[2022.02.08-22.16.25:368][549]LogBlueprintUserMessages: [Enemy_Melee2_7] 25.0
+[2022.02.08-22.16.25:485][556]LogBlueprintUserMessages: [Enemy_Melee2_7] 0.0
+[2022.02.08-22.16.26:601][623]LogScript: Warning: Attempted to access Enemy_Melee2_7 via property CallFunc_Array_Get_Item, but Enemy_Melee2_7 is pending kill
+	FightDirector_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FightDirector_2
+	Function /Game/FirstPersonBP/FightDirector.FightDirector_C:ScoreByPosition:023C
+[2022.02.08-22.16.26:601][623]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_Melee2_7 via property CallFunc_Array_Get_Item, but Enemy_Melee2_7 is pending kill". Blueprint:  FightDirector Function:  Score by Position Graph:  ScoreByPosition Node:  Add
+[2022.02.08-22.16.28:018][708]LogBlueprintUserMessages: [Enemy_Melee_4] 0.0
+[2022.02.08-22.16.30:601][863]LogScript: Warning: Attempted to access Enemy_Melee2_7 via property CallFunc_Array_Get_Item, but Enemy_Melee2_7 is pending kill
+	FightDirector_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FightDirector_2
+	Function /Game/FirstPersonBP/FightDirector.FightDirector_C:ScoreByPosition:023C
+[2022.02.08-22.16.30:601][863]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_Melee2_7 via property CallFunc_Array_Get_Item, but Enemy_Melee2_7 is pending kill". Blueprint:  FightDirector Function:  Score by Position Graph:  ScoreByPosition Node:  Add
+[2022.02.08-22.16.30:601][863]LogScript: Warning: Attempted to access Enemy_Melee_4 via property CallFunc_Array_Get_Item, but Enemy_Melee_4 is pending kill
+	FightDirector_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FightDirector_2
+	Function /Game/FirstPersonBP/FightDirector.FightDirector_C:ScoreByPosition:023C
+[2022.02.08-22.16.30:601][863]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_Melee_4 via property CallFunc_Array_Get_Item, but Enemy_Melee_4 is pending kill". Blueprint:  FightDirector Function:  Score by Position Graph:  ScoreByPosition Node:  Add
+[2022.02.08-22.16.32:817][996]LogBlueprintUserMessages: [MedKit_2] Health is Full
+[2022.02.08-22.16.33:858][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.08-22.16.33:858][ 56]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.08-22.16.33:858][ 56]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.08-22.16.33:859][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-22.16.33:886][ 56]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.08-22.16.33:893][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-22.16.33:914][ 56]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.08-22.16.33:914][ 56]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.08-22.16.33:916][ 56]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.08-22.16.33:918][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.08-22.16.33:922][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.02.08-22.16.34:006][ 57]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.02.08-22.16.50:823][ 14]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/FightDirector.FightDirector
+[2022.02.08-22.16.52:504][ 93]LogSlate: Window 'Message Log' being destroyed
+[2022.02.08-22.16.52:509][ 93]LogSlate: Window 'Message Log' being destroyed
+[2022.02.08-22.17.03:920][776]LogSlate: Window 'Message Log' being destroyed
+[2022.02.08-22.17.03:924][776]LogSlate: Window 'Message Log' being destroyed
+[2022.02.08-22.17.07:280][973]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.08-22.17.07:287][973]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.08-22.17.07:288][973]PIE: New page: PIE session: FirstPersonExampleMap (9 lut 2022, 00:17:07)
+[2022.02.08-22.17.07:314][973]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.08-22.17.07:326][973]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011477s)
+[2022.02.08-22.17.07:327][973]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.02.08-22.17.07:327][973]LogPlayLevel: PIE: World Init took: (0.001145s)
+[2022.02.08-22.17.07:327][973]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012796s)
+[2022.02.08-22.17.07:353][973]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.02.08-22.17.07:354][973]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.02.08-22.17.07:354][973]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.08-22.17.07:354][973]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.08-22.17.07:354][973]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.08-22.17.07:354][973]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.08-22.17.07:354][973]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.08-22.17.07:354][973]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.08-22.17.07:354][973]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.08-22.17.07:354][973]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.08-22.17.07:354][973]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.08-22.17.07:354][973]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.08-22.17.07:354][973]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.08-22.17.07:354][973]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.08-22.17.07:357][973]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.08-22.17.07:357][973]LogAudioMixer: Display: 1: FrontRight
+[2022.02.08-22.17.07:369][973]LogAudioMixer: Display: Using Audio Device Słuchawki (Realtek(R) Audio)
+[2022.02.08-22.17.07:369][973]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.08-22.17.07:369][973]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.08-22.17.07:369][973]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.08-22.17.07:370][973]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.08-22.17.07:370][973]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.08-22.17.07:370][973]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.08-22.17.07:371][973]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.08-22.17.07:371][973]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.08-22.17.07:371][973]LogInit: FAudioDevice initialized.
+[2022.02.08-22.17.07:371][973]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonExampleMap'.
+[2022.02.08-22.17.07:378][973]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.02.08-22.17.07:381][973]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.02.08-23.17.07
+[2022.02.08-22.17.07:381][973]LogWorld: Bringing up level for play took: 0.002959
+[2022.02.08-22.17.07:382][973]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.02.08-22.17.07:385][973]PIE: Server logged in
+[2022.02.08-22.17.07:386][973]PIE: Play in editor total start time 0,102 seconds.
+[2022.02.08-22.17.12:506][279]LogBlueprintUserMessages: [Enemy_Melee_4] 75.0
+[2022.02.08-22.17.12:506][279]LogBlueprintUserMessages: [Enemy_Melee_4] 50.0
+[2022.02.08-22.17.12:522][280]LogCharacterMovement: Enemy_Melee_4 is stuck and failed to move! Velocity: X=278.74 Y=40.07 Z=0.00 Location: X=-278.68 Y=52.26 Z=260.37 Normal: X=-0.57 Y=0.82 Z=-0.00 PenetrationDepth:6.697 Actor:BP_TelekinetikProp3_8 Component:StaticMesh TK BoneName:None (0 other events since notify)
+[2022.02.08-22.17.12:605][285]LogBlueprintUserMessages: [Enemy_Melee_4] 25.0
+[2022.02.08-22.17.13:938][365]LogBlueprintUserMessages: [Enemy_Melee2_7] 75.0
+[2022.02.08-22.17.14:138][377]LogBlueprintUserMessages: [Enemy_Melee2_7] 50.0
+[2022.02.08-22.17.16:156][498]LogBlueprintUserMessages: [Enemy_Melee_4] 0.0
+[2022.02.08-22.17.16:156][498]LogBlueprintUserMessages: [Enemy_Melee2_7] 25.0
+[2022.02.08-22.17.16:172][499]LogBlueprintUserMessages: [Enemy_Melee2_7] 0.0
+[2022.02.08-22.17.19:288][686]LogScript: Warning: Attempted to access Enemy_Melee2_7 via property CallFunc_Array_Get_Item, but Enemy_Melee2_7 is pending kill
+	FightDirector_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FightDirector_2
+	Function /Game/FirstPersonBP/FightDirector.FightDirector_C:ScoreByPosition:023C
+[2022.02.08-22.17.19:289][686]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_Melee2_7 via property CallFunc_Array_Get_Item, but Enemy_Melee2_7 is pending kill". Blueprint:  FightDirector Function:  Score by Position Graph:  ScoreByPosition Node:  Add
+[2022.02.08-22.17.19:289][686]LogScript: Warning: Attempted to access Enemy_Melee_4 via property CallFunc_Array_Get_Item, but Enemy_Melee_4 is pending kill
+	FightDirector_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FightDirector_2
+	Function /Game/FirstPersonBP/FightDirector.FightDirector_C:ScoreByPosition:023C
+[2022.02.08-22.17.19:289][686]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_Melee_4 via property CallFunc_Array_Get_Item, but Enemy_Melee_4 is pending kill". Blueprint:  FightDirector Function:  Score by Position Graph:  ScoreByPosition Node:  Add
+[2022.02.08-22.17.20:258][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.08-22.17.20:258][742]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.08-22.17.20:258][742]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.08-22.17.20:258][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-22.17.20:269][742]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.08-22.17.20:277][742]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-22.17.20:299][742]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.08-22.17.20:299][742]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.08-22.17.20:300][742]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.08-22.17.20:303][742]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.08-22.17.20:306][742]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.02.08-22.17.20:386][743]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.02.08-22.17.24:089][956]LogSlate: Window 'Message Log' being destroyed
+[2022.02.08-22.17.24:095][956]LogSlate: Window 'Message Log' being destroyed
+[2022.02.08-22.17.30:826][357]BlueprintLog: New page: Compile BP_TelekinetikProp
+[2022.02.08-22.17.30:875][357]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.02.08-22.17.32:444][445]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.08-22.17.32:451][445]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.08-22.17.32:451][445]PIE: New page: PIE session: FirstPersonExampleMap (9 lut 2022, 00:17:32)
+[2022.02.08-22.17.32:451][445]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.08-22.17.32:464][445]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012737s)
+[2022.02.08-22.17.32:465][445]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.02.08-22.17.32:465][445]LogPlayLevel: PIE: World Init took: (0.001110s)
+[2022.02.08-22.17.32:465][445]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.013970s)
+[2022.02.08-22.17.32:491][445]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.02.08-22.17.32:491][445]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.02.08-22.17.32:491][445]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.08-22.17.32:491][445]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.08-22.17.32:491][445]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.08-22.17.32:491][445]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.08-22.17.32:491][445]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.08-22.17.32:491][445]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.08-22.17.32:491][445]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.08-22.17.32:491][445]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.08-22.17.32:491][445]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.08-22.17.32:491][445]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.08-22.17.32:491][445]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.08-22.17.32:491][445]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.08-22.17.32:494][445]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.08-22.17.32:494][445]LogAudioMixer: Display: 1: FrontRight
+[2022.02.08-22.17.32:506][445]LogAudioMixer: Display: Using Audio Device Słuchawki (Realtek(R) Audio)
+[2022.02.08-22.17.32:507][445]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.08-22.17.32:507][445]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.08-22.17.32:507][445]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.08-22.17.32:507][445]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.08-22.17.32:507][445]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.08-22.17.32:507][445]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.08-22.17.32:508][445]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.08-22.17.32:508][445]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.08-22.17.32:508][445]LogInit: FAudioDevice initialized.
+[2022.02.08-22.17.32:508][445]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonExampleMap'.
+[2022.02.08-22.17.32:517][445]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.02.08-22.17.32:520][445]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.02.08-23.17.32
+[2022.02.08-22.17.32:521][445]LogWorld: Bringing up level for play took: 0.003191
+[2022.02.08-22.17.32:521][445]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2022.02.08-22.17.32:525][445]PIE: Server logged in
+[2022.02.08-22.17.32:526][445]PIE: Play in editor total start time 0,078 seconds.
+[2022.02.08-22.17.38:328][791]LogBlueprintUserMessages: [Enemy_Melee_4] 95.0
+[2022.02.08-22.17.38:328][791]LogBlueprintUserMessages: [Enemy_Melee_4] 90.0
+[2022.02.08-22.17.38:728][815]LogBlueprintUserMessages: [Enemy_Melee2_7] 95.0
+[2022.02.08-22.17.39:161][841]LogBlueprintUserMessages: [Enemy_Melee_4] 85.0
+[2022.02.08-22.17.39:178][842]LogBlueprintUserMessages: [Enemy_Melee_4] 80.0
+[2022.02.08-22.17.39:195][843]LogBlueprintUserMessages: [Enemy_Melee_4] 75.0
+[2022.02.08-22.17.39:212][844]LogBlueprintUserMessages: [Enemy_Melee_4] 70.0
+[2022.02.08-22.17.39:445][858]LogBlueprintUserMessages: [Enemy_Melee2_7] 90.0
+[2022.02.08-22.17.43:029][ 73]LogBlueprintUserMessages: [Enemy_Melee2_7] 85.0
+[2022.02.08-22.17.43:062][ 75]LogBlueprintUserMessages: [Enemy_Melee_4] 65.0
+[2022.02.08-22.17.43:512][102]LogBlueprintUserMessages: [Enemy_Melee2_7] 80.0
+[2022.02.08-22.17.43:528][103]LogBlueprintUserMessages: [Enemy_Melee_4] 60.0
+[2022.02.08-22.17.43:528][103]LogBlueprintUserMessages: [Enemy_Melee2_7] 75.0
+[2022.02.08-22.17.43:528][103]LogBlueprintUserMessages: [Enemy_Melee_4] 55.0
+[2022.02.08-22.17.43:562][105]LogBlueprintUserMessages: [Enemy_Melee_4] 50.0
+[2022.02.08-22.17.47:179][322]LogBlueprintUserMessages: [Enemy_Melee2_7] 70.0
+[2022.02.08-22.17.47:195][323]LogBlueprintUserMessages: [Enemy_Melee_4] 45.0
+[2022.02.08-22.17.47:195][323]LogBlueprintUserMessages: [Enemy_Melee2_7] 65.0
+[2022.02.08-22.17.47:195][323]LogBlueprintUserMessages: [Enemy_Melee_4] 40.0
+[2022.02.08-22.17.47:344][332]LogBlueprintUserMessages: [Enemy_Melee_4] 35.0
+[2022.02.08-22.17.47:662][351]LogBlueprintUserMessages: [Enemy_Melee_4] 30.0
+[2022.02.08-22.17.47:828][361]LogBlueprintUserMessages: [Enemy_Melee2_7] 60.0
+[2022.02.08-22.17.47:845][362]LogBlueprintUserMessages: [Enemy_Melee_4] 25.0
+[2022.02.08-22.17.47:845][362]LogBlueprintUserMessages: [Enemy_Melee2_7] 55.0
+[2022.02.08-22.17.47:861][363]LogBlueprintUserMessages: [Enemy_Melee_4] 20.0
+[2022.02.08-22.17.47:862][363]LogBlueprintUserMessages: [Enemy_Melee2_7] 50.0
+[2022.02.08-22.17.47:878][364]LogBlueprintUserMessages: [Enemy_Melee_4] 15.0
+[2022.02.08-22.17.47:879][364]LogBlueprintUserMessages: [Enemy_Melee_4] 10.0
+[2022.02.08-22.17.47:945][368]LogBlueprintUserMessages: [Enemy_Melee_4] 5.0
+[2022.02.08-22.17.48:044][374]LogBlueprintUserMessages: [Enemy_Melee_4] 0.0
+[2022.02.08-22.17.48:445][398]LogScript: Warning: Attempted to access Enemy_Melee_4 via property CallFunc_Array_Get_Item, but Enemy_Melee_4 is pending kill
+	FightDirector_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FightDirector_2
+	Function /Game/FirstPersonBP/FightDirector.FightDirector_C:ScoreByPosition:023C
+[2022.02.08-22.17.48:445][398]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_Melee_4 via property CallFunc_Array_Get_Item, but Enemy_Melee_4 is pending kill". Blueprint:  FightDirector Function:  Score by Position Graph:  ScoreByPosition Node:  Add
+[2022.02.08-22.17.49:078][436]LogBlueprintUserMessages: [Enemy_Melee2_7] 45.0
+[2022.02.08-22.17.49:079][436]LogBlueprintUserMessages: [Enemy_Melee2_7] 40.0
+[2022.02.08-22.17.49:112][438]LogBlueprintUserMessages: [Enemy_Melee2_7] 35.0
+[2022.02.08-22.17.49:145][440]LogBlueprintUserMessages: [Enemy_Melee2_7] 30.0
+[2022.02.08-22.17.49:312][450]LogBlueprintUserMessages: [Enemy_Melee2_7] 25.0
+[2022.02.08-22.17.49:328][451]LogBlueprintUserMessages: [Enemy_Melee2_7] 20.0
+[2022.02.08-22.17.49:345][452]LogBlueprintUserMessages: [Enemy_Melee2_7] 15.0
+[2022.02.08-22.17.49:362][453]LogBlueprintUserMessages: [Enemy_Melee2_7] 10.0
+[2022.02.08-22.17.49:378][454]LogBlueprintUserMessages: [Enemy_Melee2_7] 5.0
+[2022.02.08-22.17.49:395][455]LogBlueprintUserMessages: [Enemy_Melee2_7] 0.0
+[2022.02.08-22.17.50:728][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.08-22.17.50:728][533]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.08-22.17.50:728][533]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.08-22.17.50:728][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-22.17.50:739][533]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.08-22.17.50:747][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.08-22.17.50:768][533]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.08-22.17.50:769][533]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.08-22.17.50:770][533]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.08-22.17.50:772][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.08-22.17.50:776][533]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.02.08-22.17.50:858][534]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.02.08-22.17.57:992][952]LogSlate: Window 'Message Log' being destroyed
+[2022.02.08-22.17.57:997][952]LogSlate: Window 'Message Log' being destroyed
+[2022.02.08-22.18.20:641][303]BlueprintLog: New page: Compile BP_TelekinetikProp
+[2022.02.08-22.18.20:694][303]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.02.08-22.19.14:171][504]BlueprintLog: New page: Compile Enemy_Melee
+[2022.02.08-22.19.14:230][504]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
