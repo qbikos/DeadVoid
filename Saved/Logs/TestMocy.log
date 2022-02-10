@@ -6076,3 +6076,1851 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.10-17.38.23:465][275]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SuperGrid_Box20)
 [2022.02.10-17.38.51:571][960]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box19)
 [2022.02.10-17.39.06:300][842]LogEditorViewport: Clicking on Actor (LMB): ForcefieldColider_C (ForcefieldColider)
+[2022.02.10-17.44.52:686][434]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2022.02.10-17.44.52:733][434]LogSavePackage: Moving '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/FirstPersonExampleMap_Auto0CF2881EB4DE3FF0D989DD48938ECD5C3.tmp' to '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto0.umap'
+[2022.02.10-17.44.52:734][434]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.086
+[2022.02.10-17.44.52:734][434]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.086
+[2022.02.10-17.45.48:413][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.02.10-17.45.48:459][765]LogSavePackage: Moving '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/FirstPersonExampleMap772B624641382D7249AB26B1CB3556AB.tmp' to '../../../../../../UnrealProjects/Projekt/DeadVoid/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.02.10-17.45.48:763][765]LogSavePackage: Moving '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/FirstPersonExampleMap_BuiltData0EBBE4014E5B9C70FDFE0C99AA684AEE.tmp' to '../../../../../../UnrealProjects/Projekt/DeadVoid/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.02.10-17.45.48:788][765]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.10-17.45.48:788][765]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.02.10-17.45.48:788][765]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.02.10-17.45.52:507][988]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Plane2)
+[2022.02.10-17.46.06:452][822]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box20)
+[2022.02.10-17.46.11:291][104]Cmd: TRANSACTION UNDO
+[2022.02.10-17.46.11:291][104]LogEditorTransaction: Undo Move Actors
+[2022.02.10-17.46.11:293][104]LogMaterial: Display: Missing cached shadermap for Blue in PCD3D_SM5, Default, SM5 (DDC key hash: 9AFECBC6FB4A5D71C4EA6011E0321474B8ACE9E8), compiling. 
+[2022.02.10-17.46.11:300][104]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-17.46.11:300][104]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-17.46.11:382][106]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.10-17.46.11:382][106]LogShaderCompilers: Display: Total job queries 3655, among them cache hits 3159 (86.43%)
+[2022.02.10-17.46.11:382][106]LogShaderCompilers: Display: Tracking 471 distinct input hashes that result in 208 distinct outputs (44.16%)
+[2022.02.10-17.46.11:382][106]LogShaderCompilers: Display: RAM used: 1.14 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.07%
+[2022.02.10-17.46.11:382][106]LogShaderCompilers: Display: ================================================
+[2022.02.10-17.46.11:399][107]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-17.46.11:399][107]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2022.02.10-17.46.11:399][107]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-17.46.11:399][107]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-17.46.11:399][107]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-17.46.11:399][107]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-17.46.40:244][832]LogContentBrowser: Attempting asset rename: ForcefieldColider -> ForcefiledColliderHuman
+[2022.02.10-17.46.40:289][832]LogMetaData: Removing '/Game/FirstPersonBP/LevelObjects/ForcefiledColliderHuman.ForcefiledColliderHuman_C' ref from Metadata '/Game/FirstPersonBP/LevelObjects/ForcefieldColider.PackageMetaData'
+[2022.02.10-17.46.40:289][832]LogMetaData: Removing '/Game/FirstPersonBP/LevelObjects/ForcefiledColliderHuman.ForcefiledColliderHuman:EventGraph.K2Node_Event_0' ref from Metadata '/Game/FirstPersonBP/LevelObjects/ForcefieldColider.PackageMetaData'
+[2022.02.10-17.46.40:289][832]LogMetaData: Removing '/Game/FirstPersonBP/LevelObjects/ForcefiledColliderHuman.ForcefiledColliderHuman:EventGraph.K2Node_Event_1' ref from Metadata '/Game/FirstPersonBP/LevelObjects/ForcefieldColider.PackageMetaData'
+[2022.02.10-17.46.40:289][832]LogMetaData: Removing '/Game/FirstPersonBP/LevelObjects/ForcefiledColliderHuman.ForcefiledColliderHuman:EventGraph.K2Node_Event_2' ref from Metadata '/Game/FirstPersonBP/LevelObjects/ForcefieldColider.PackageMetaData'
+[2022.02.10-17.46.40:289][832]LogMetaData: Removing '/Game/FirstPersonBP/LevelObjects/ForcefiledColliderHuman.ForcefiledColliderHuman:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/FirstPersonBP/LevelObjects/ForcefieldColider.PackageMetaData'
+[2022.02.10-17.46.40:290][832]LogMetaData: Removing '/Game/FirstPersonBP/LevelObjects/ForcefiledColliderHuman.SKEL_ForcefiledColliderHuman_C' ref from Metadata '/Game/FirstPersonBP/LevelObjects/ForcefieldColider.PackageMetaData'
+[2022.02.10-17.46.40:290][832]LogMetaData: Removing '/Game/FirstPersonBP/LevelObjects/ForcefiledColliderHuman.SKEL_ForcefiledColliderHuman_C:UserConstructionScript' ref from Metadata '/Game/FirstPersonBP/LevelObjects/ForcefieldColider.PackageMetaData'
+[2022.02.10-17.46.40:290][832]LogMetaData: Removing '/Game/FirstPersonBP/LevelObjects/ForcefiledColliderHuman.SKEL_ForcefiledColliderHuman_C:ReceiveTick' ref from Metadata '/Game/FirstPersonBP/LevelObjects/ForcefieldColider.PackageMetaData'
+[2022.02.10-17.46.40:290][832]LogMetaData: Removing '/Game/FirstPersonBP/LevelObjects/ForcefiledColliderHuman.SKEL_ForcefiledColliderHuman_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/FirstPersonBP/LevelObjects/ForcefieldColider.PackageMetaData'
+[2022.02.10-17.46.40:290][832]LogMetaData: Removing '/Game/FirstPersonBP/LevelObjects/ForcefiledColliderHuman.SKEL_ForcefiledColliderHuman_C:ReceiveBeginPlay' ref from Metadata '/Game/FirstPersonBP/LevelObjects/ForcefieldColider.PackageMetaData'
+[2022.02.10-17.46.40:339][832]LogSavePackage: Moving '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/ForcefiledColliderHumanC5A86AFC4121CD5D86A92FA55A8D8369.tmp' to '../../../../../../UnrealProjects/Projekt/DeadVoid/Content/FirstPersonBP/LevelObjects/ForcefiledColliderHuman.uasset'
+[2022.02.10-17.46.40:341][832]LogSavePackage: Moving '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/ForcefieldColider9D076FC84574E482191DC8866AA61738.tmp' to '../../../../../../UnrealProjects/Projekt/DeadVoid/Content/FirstPersonBP/LevelObjects/ForcefieldColider.uasset'
+[2022.02.10-17.46.40:442][832]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.10-17.46.40:442][832]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/LevelObjects/ForcefiledColliderHuman.ForcefiledColliderHuman
+[2022.02.10-17.46.40:442][832]LogContentValidation: Display: Validating ObjectRedirector /Game/FirstPersonBP/LevelObjects/ForcefieldColider.ForcefieldColider
+[2022.02.10-17.46.40:442][832]LogContentValidation: Display: Validating ObjectRedirector /Game/FirstPersonBP/LevelObjects/ForcefieldColider.Default__ForcefieldColider_C
+[2022.02.10-17.46.40:442][832]LogContentValidation: Display: Validating ObjectRedirector /Game/FirstPersonBP/LevelObjects/ForcefieldColider.ForcefieldColider_C
+[2022.02.10-17.46.49:642][378]LogContentBrowser: Deferred new asset file creation: ForcefiledColliderHuman1
+[2022.02.10-17.46.49:668][378]LogContentBrowser: Creating deferred item: ForcefiledColliderHuman1
+[2022.02.10-17.46.55:956][756]LogContentBrowser: Attempting asset rename: ForcefiledColliderHuman1 -> ForcefiledColliderObject
+[2022.02.10-17.46.55:995][756]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2022.02.10-17.46.56:000][756]LogContentBrowser: End creating deferred item ForcefiledColliderHuman1
+[2022.02.10-17.47.01:036][ 57]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/LevelObjects/ForcefiledColliderObject.ForcefiledColliderObject
+[2022.02.10-17.48.11:867][276]LogContentBrowser: Deferred new asset file creation: Blue1
+[2022.02.10-17.48.11:883][276]LogContentBrowser: Creating deferred item: Blue1
+[2022.02.10-17.48.17:838][634]LogContentBrowser: Attempting asset rename: Blue1 -> Grey
+[2022.02.10-17.48.17:840][634]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: CAD93F7B83FD9B5DDA2613C11687E9147658CCE9), compiling. 
+[2022.02.10-17.48.17:868][634]LogShaderCompilers: Display: Submitted 61 shader compile jobs with 'Low' priority
+[2022.02.10-17.48.17:869][634]LogContentBrowser: End creating deferred item Blue1
+[2022.02.10-17.48.17:880][635]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.02.10-17.48.17:880][635]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.02.10-17.48.17:880][635]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 59
+[2022.02.10-17.48.17:880][635]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 54
+[2022.02.10-17.48.17:880][635]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 49
+[2022.02.10-17.48.17:880][635]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 44
+[2022.02.10-17.48.17:880][635]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 39
+[2022.02.10-17.48.17:880][635]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 34
+[2022.02.10-17.48.17:880][635]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 29
+[2022.02.10-17.48.17:880][635]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 24
+[2022.02.10-17.48.17:880][635]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 19
+[2022.02.10-17.48.17:880][635]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 14
+[2022.02.10-17.48.17:880][635]LogShaderCompilers: Display: Started 50 'Local' shader compile jobs with 'Normal' priority
+[2022.02.10-17.48.17:880][635]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.10-17.48.18:738][671]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 9
+[2022.02.10-17.48.18:738][671]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.10-17.48.18:738][671]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 8
+[2022.02.10-17.48.18:738][671]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.10-17.48.18:936][677]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2022.02.10-17.48.18:936][677]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.10-17.48.19:144][684]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 6
+[2022.02.10-17.48.19:144][684]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.10-17.48.19:592][697]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2022.02.10-17.48.19:592][697]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.10-17.48.19:602][697]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2022.02.10-17.48.19:602][697]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.10-17.48.19:632][697]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Geometry/Meshes/Grey.Grey
+[2022.02.10-17.48.19:635][697]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: E2BECB1741D0BAAFBC16CF5391043C05ACDE89DC), compiling. 
+[2022.02.10-17.48.19:783][697]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: ACEA42F07DE6DC6E543D495682318855A9F4E5F5), compiling. 
+[2022.02.10-17.48.19:788][697]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: 23F86AC6FD26E3ED0195D7EC82193F7334936C85), compiling. 
+[2022.02.10-17.48.19:791][697]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0449DF1DFFCBF841000FFAD93C55593770086F6D), compiling. 
+[2022.02.10-17.48.19:812][697]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-17.48.19:812][697]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-17.48.19:883][698]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2022.02.10-17.48.19:883][698]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.10-17.48.19:930][699]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.10-17.48.19:930][699]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-17.48.20:092][709]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2022.02.10-17.48.20:092][709]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.10-17.48.20:193][715]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2022.02.10-17.48.20:193][715]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.10-17.48.20:673][741]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-17.48.20:673][741]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-17.48.21:347][779]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-17.48.21:347][779]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2022.02.10-17.48.21:347][779]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-17.48.21:347][779]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-17.48.21:347][779]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-17.48.21:347][779]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-17.48.22:030][820]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: 7FC0C81D9074827D6800ECFE39596948EDACB399), compiling. 
+[2022.02.10-17.48.22:032][820]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 98EF384090F498CB6B35AFE341B6BF5132C5CF1D), compiling. 
+[2022.02.10-17.48.22:034][820]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-17.48.22:034][820]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-17.48.22:054][822]LogShaderCompilers: Display: Submitted 30 shader compile jobs with 'Normal' priority
+[2022.02.10-17.48.22:055][822]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.10-17.48.22:058][822]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 6
+[2022.02.10-17.48.22:058][822]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2022.02.10-17.48.22:058][822]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2022.02.10-17.48.22:058][822]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2022.02.10-17.48.22:058][822]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2022.02.10-17.48.22:058][822]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2022.02.10-17.48.22:058][822]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 26
+[2022.02.10-17.48.22:058][822]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 23
+[2022.02.10-17.48.22:058][822]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 20
+[2022.02.10-17.48.22:058][822]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 17
+[2022.02.10-17.48.22:058][822]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 14
+[2022.02.10-17.48.22:058][822]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 11
+[2022.02.10-17.48.22:058][822]LogShaderCompilers: Display: Started 18 'Local' shader compile jobs with 'Normal' priority
+[2022.02.10-17.48.22:058][822]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.10-17.48.22:284][834]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2022.02.10-17.48.22:285][834]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.10-17.48.22:531][848]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2022.02.10-17.48.22:531][848]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.10-17.48.22:531][848]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2022.02.10-17.48.22:531][848]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.10-17.48.22:551][849]MaterialEditorStats: Texture samplers: 1/16
+[2022.02.10-17.48.22:551][849]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-17.48.22:562][850]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2022.02.10-17.48.22:562][850]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.10-17.48.22:682][857]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2022.02.10-17.48.22:682][857]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.10-17.48.22:732][860]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2022.02.10-17.48.22:732][860]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.10-17.48.22:753][861]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.10-17.48.22:753][861]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-17.48.22:840][866]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2022.02.10-17.48.22:840][866]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.10-17.48.23:176][886]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2022.02.10-17.48.23:177][886]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.10-17.48.23:664][915]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-17.48.23:664][915]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-17.48.24:130][943]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-17.48.24:130][943]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2022.02.10-17.48.24:130][943]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-17.48.24:130][943]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-17.48.24:130][943]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-17.48.24:130][943]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-17.48.31:530][387]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: B8706CF3DC11DE174824BA4823C8FA81D728ACFB), compiling. 
+[2022.02.10-17.48.31:532][387]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 8AFE024F2D47D5072D101F5E30CCAFD3D071D694), compiling. 
+[2022.02.10-17.48.31:534][387]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-17.48.31:535][387]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-17.48.31:554][389]LogShaderCompilers: Display: Submitted 30 shader compile jobs with 'Normal' priority
+[2022.02.10-17.48.31:555][389]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.10-17.48.31:562][389]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 6
+[2022.02.10-17.48.31:562][389]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2022.02.10-17.48.31:562][389]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2022.02.10-17.48.31:562][389]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2022.02.10-17.48.31:562][389]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2022.02.10-17.48.31:562][389]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2022.02.10-17.48.31:562][389]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 26
+[2022.02.10-17.48.31:562][389]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 23
+[2022.02.10-17.48.31:562][389]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 20
+[2022.02.10-17.48.31:562][389]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 17
+[2022.02.10-17.48.31:562][389]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 14
+[2022.02.10-17.48.31:562][389]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 11
+[2022.02.10-17.48.31:562][389]LogShaderCompilers: Display: Started 18 'Local' shader compile jobs with 'Normal' priority
+[2022.02.10-17.48.31:562][389]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.10-17.48.31:812][402]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2022.02.10-17.48.31:812][402]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.10-17.48.32:030][414]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2022.02.10-17.48.32:030][414]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.10-17.48.32:030][414]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2022.02.10-17.48.32:030][414]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.10-17.48.32:051][415]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2022.02.10-17.48.32:052][415]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.10-17.48.32:052][415]MaterialEditorStats: Texture samplers: 1/16
+[2022.02.10-17.48.32:052][415]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-17.48.32:182][423]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2022.02.10-17.48.32:182][423]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.10-17.48.32:259][427]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2022.02.10-17.48.32:259][427]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.10-17.48.32:263][427]MaterialEditorStats: Texture samplers: 3/16
+[2022.02.10-17.48.32:263][427]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-17.48.32:387][434]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2022.02.10-17.48.32:387][434]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.10-17.48.32:680][450]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2022.02.10-17.48.32:680][450]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.02.10-17.48.33:183][480]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-17.48.33:183][480]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-17.48.33:583][504]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: EEA5C1053C1B237B0445FD28670CD8038E16F03A), compiling. 
+[2022.02.10-17.48.33:585][504]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9B7677D686E503CF7F459318FBC16049D8C16A39), compiling. 
+[2022.02.10-17.48.33:588][504]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-17.48.33:588][504]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-17.48.33:608][506]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 24
+[2022.02.10-17.48.33:608][506]LogShaderCompilers: Display: Submitted 30 shader compile jobs with 'Normal' priority
+[2022.02.10-17.48.33:608][506]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 27
+[2022.02.10-17.48.33:608][506]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 24
+[2022.02.10-17.48.33:608][506]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 21
+[2022.02.10-17.48.33:608][506]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 18
+[2022.02.10-17.48.33:608][506]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 15
+[2022.02.10-17.48.33:608][506]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 12
+[2022.02.10-17.48.33:608][506]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 9
+[2022.02.10-17.48.33:608][506]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 6
+[2022.02.10-17.48.33:608][506]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2022.02.10-17.48.33:608][506]LogShaderCompilers: Display: Started 30 'Local' shader compile jobs with 'Normal' priority
+[2022.02.10-17.48.33:614][506]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.02.10-17.48.33:649][508]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.02.10-17.48.33:649][508]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.10-17.48.33:704][511]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 1
+[2022.02.10-17.48.33:704][511]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.10-17.48.34:617][563]MaterialEditorStats: Texture samplers: 1/16
+[2022.02.10-17.48.34:617][563]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-17.48.35:149][595]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-17.48.35:149][595]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-17.48.35:616][623]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-17.48.35:616][623]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2022.02.10-17.48.35:616][623]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-17.48.35:616][623]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-17.48.35:616][623]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-17.48.35:616][623]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-17.48.46:708][287]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: A4BF9DF501446BB7425F5073CDC377F69C30D7B1), compiling. 
+[2022.02.10-17.48.46:710][287]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 02E3D952A0298BFAF720308D32303120878A500A), compiling. 
+[2022.02.10-17.48.46:711][287]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.10-17.48.46:717][287]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-17.48.46:717][287]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-17.48.46:759][290]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-17.48.46:759][290]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2022.02.10-17.48.46:759][290]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-17.48.46:759][290]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-17.48.46:759][290]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-17.48.46:759][290]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-17.48.49:149][433]LogMaterialEditor: Saving and Compiling material Grey
+[2022.02.10-17.48.49:459][433]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: 82945830A46B1583CDC3899514C853FD6D641DE9), compiling. 
+[2022.02.10-17.48.49:485][433]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: A2CE51292F4CDC5A7152A072856251C831BC9108), compiling. 
+[2022.02.10-17.48.49:549][433]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.02.10-17.48.49:554][433]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.02.10-17.48.49:697][433]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2022.02.10-17.48.49:697][433]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.02.10-17.48.49:698][433]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.02.10-17.48.49:776][433]LogShaderCompilers: Display: Submitted 30 shader compile jobs with 'Normal' priority
+[2022.02.10-17.48.49:778][433]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 30
+[2022.02.10-17.48.49:778][433]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 27
+[2022.02.10-17.48.49:778][433]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 24
+[2022.02.10-17.48.49:778][433]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 21
+[2022.02.10-17.48.49:778][433]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 18
+[2022.02.10-17.48.49:778][433]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 15
+[2022.02.10-17.48.49:778][433]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 12
+[2022.02.10-17.48.49:778][433]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2022.02.10-17.48.49:778][433]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2022.02.10-17.48.49:778][433]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2022.02.10-17.48.49:778][433]LogShaderCompilers: Display: Started 30 'Local' shader compile jobs with 'Normal' priority
+[2022.02.10-17.48.49:804][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Grey" FILE="../../../../../../UnrealProjects/Projekt/DeadVoid/Content/Geometry/Meshes/Grey.uasset" SILENT=true
+[2022.02.10-17.48.49:811][433]LogSavePackage: Moving '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/GreyE318ED354D8BCAD02AA22E8329EE1765.tmp' to '../../../../../../UnrealProjects/Projekt/DeadVoid/Content/Geometry/Meshes/Grey.uasset'
+[2022.02.10-17.48.49:828][433]AssetCheck: New page: Asset Save: Grey
+[2022.02.10-17.48.49:828][433]LogContentValidation: Display: Validating Material /Game/Geometry/Meshes/Grey.Grey
+[2022.02.10-17.48.49:844][433]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-17.48.49:844][433]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-17.48.51:623][532]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-17.48.51:623][532]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2022.02.10-17.48.51:623][532]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-17.48.51:623][532]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-17.48.51:623][532]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-17.48.51:623][532]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-17.49.10:455][654]BlueprintLog: New page: Compile ForcefiledColliderObject
+[2022.02.10-17.49.10:505][654]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.02.10-17.49.38:568][330]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.10-17.49.38:577][330]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.02.10-17.49.38:577][330]LogPlayLevel: [PlayLevel] Compiling BP_Door before play...
+[2022.02.10-17.49.38:611][330]LogPlayLevel: [PlayLevel] Compiling BP_Key before play...
+[2022.02.10-17.49.38:642][330]LogPlayLevel: [PlayLevel] Compiling BP_PressureDoor before play...
+[2022.02.10-17.49.38:674][330]LogPlayLevel: [PlayLevel] Compiling PressurePlate before play...
+[2022.02.10-17.49.38:710][330]LogPlayLevel: [PlayLevel] Compiling ForcefiledColliderObject before play...
+[2022.02.10-17.49.38:774][330]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2022.02.10-17.49.38:774][330]LogPlayLevel: PlayLevel: Blueprint regeneration took 197 ms (5 blueprints)
+[2022.02.10-17.49.38:774][330]PIE: New page: PIE session: FirstPersonExampleMap (10 lut 2022, 19:49:38)
+[2022.02.10-17.49.38:775][330]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.10-17.49.38:791][330]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016754s)
+[2022.02.10-17.49.38:792][330]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.02.10-17.49.38:792][330]LogPlayLevel: PIE: World Init took: (0.001042s)
+[2022.02.10-17.49.38:792][330]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.017962s)
+[2022.02.10-17.49.38:827][330]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.02.10-17.49.38:827][330]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2022.02.10-17.49.38:827][330]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.10-17.49.38:827][330]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.10-17.49.38:828][330]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.10-17.49.38:828][330]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.10-17.49.38:828][330]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.10-17.49.38:828][330]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.10-17.49.38:828][330]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.10-17.49.38:828][330]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.10-17.49.38:828][330]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.10-17.49.38:828][330]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.10-17.49.38:828][330]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.10-17.49.38:828][330]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.10-17.49.38:831][330]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.10-17.49.38:831][330]LogAudioMixer: Display: 1: FrontRight
+[2022.02.10-17.49.38:846][330]LogAudioMixer: Display: Using Audio Device Słuchawki (Realtek(R) Audio)
+[2022.02.10-17.49.38:846][330]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.10-17.49.38:846][330]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.10-17.49.38:846][330]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.10-17.49.38:847][330]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.10-17.49.38:847][330]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.10-17.49.38:847][330]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.10-17.49.38:848][330]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.10-17.49.38:848][330]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.10-17.49.38:848][330]LogInit: FAudioDevice initialized.
+[2022.02.10-17.49.38:848][330]LogAudio: Display: Audio Device (ID: 42) registered with world 'FirstPersonExampleMap'.
+[2022.02.10-17.49.38:874][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.10-17.49.38:874][330]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.02.10-17.49.38:879][330]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.02.10-18.49.38
+[2022.02.10-17.49.38:880][330]LogWorld: Bringing up level for play took: 0.005295
+[2022.02.10-17.49.38:880][330]LogOnline: OSS: Creating online subsystem instance for: :Context_77
+[2022.02.10-17.49.38:885][330]PIE: Server logged in
+[2022.02.10-17.49.38:886][330]PIE: Play in editor total start time 0,313 seconds.
+[2022.02.10-17.49.40:740][437]LogSlate: Window 'TestMocy Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.02.10-17.49.40:748][437]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.10-17.49.40:748][437]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.10-17.49.40:749][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.10-17.49.40:765][437]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.10-17.49.40:775][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.10-17.49.40:808][437]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.10-17.49.40:809][437]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.10-17.49.40:816][437]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.02.10-17.49.40:856][438]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2022.02.10-17.50.05:758][907]Cmd: TRANSACTION UNDO
+[2022.02.10-17.50.05:758][907]LogEditorTransaction: Undo Move Actors
+[2022.02.10-17.50.05:760][907]LogMaterial: Display: Missing cached shadermap for Blue in PCD3D_SM5, Default, SM5 (DDC key hash: 810AC132E5AC207CF9691A545A9C5FF78C874484), compiling. 
+[2022.02.10-17.50.05:767][907]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: E7E3A0D1572E5855C69390DDD88C988FAB34B617), compiling. 
+[2022.02.10-17.50.05:775][907]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-17.50.05:775][907]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-17.50.05:775][907]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-17.50.05:775][907]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-17.50.05:847][909]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.10-17.50.05:847][909]LogShaderCompilers: Display: Total job queries 4084, among them cache hits 3350 (82.03%)
+[2022.02.10-17.50.05:847][909]LogShaderCompilers: Display: Tracking 659 distinct input hashes that result in 255 distinct outputs (38.69%)
+[2022.02.10-17.50.05:847][909]LogShaderCompilers: Display: RAM used: 1.36 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.08%
+[2022.02.10-17.50.05:847][909]LogShaderCompilers: Display: ================================================
+[2022.02.10-17.50.05:868][910]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-17.50.05:868][910]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2022.02.10-17.50.05:868][910]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-17.50.05:868][910]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-17.50.05:868][910]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-17.50.05:868][910]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-17.50.05:909][911]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-17.50.05:909][911]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2022.02.10-17.50.05:909][911]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-17.50.05:909][911]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-17.50.05:909][911]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-17.50.05:909][911]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-17.50.09:687][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box20)
+[2022.02.10-17.50.11:351][214]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
+[2022.02.10-17.50.11:684][234]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 4
+[2022.02.10-17.50.11:968][251]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
+[2022.02.10-17.50.20:545][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box20)
+[2022.02.10-17.50.28:986][260]LogEditorViewport: Clicking on Actor (LMB): ForcefiledColliderObject_C (ForcefiledColliderObject)
+[2022.02.10-17.50.37:397][756]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box20)
+[2022.02.10-17.50.54:740][780]Cmd: TRANSACTION UNDO
+[2022.02.10-17.50.54:741][780]LogEditorTransaction: Undo Move Actors
+[2022.02.10-17.50.54:742][780]LogMaterial: Display: Missing cached shadermap for Blue in PCD3D_SM5, Default, SM5 (DDC key hash: 4913C50EF4C91A85DE2DA5EF620E01912980BCAA), compiling. 
+[2022.02.10-17.50.54:745][780]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: EF4195969D566DF6597046E55250E07FE90503E5), compiling. 
+[2022.02.10-17.50.54:752][780]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-17.50.54:752][780]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-17.50.54:752][780]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-17.50.54:752][780]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-17.50.54:879][783]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-17.50.54:879][783]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-17.50.54:879][783]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-17.50.54:879][783]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2022.02.10-17.50.54:879][783]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-17.50.54:879][783]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-17.50.54:879][783]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-17.50.54:879][783]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-17.50.54:913][784]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-17.50.54:913][784]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2022.02.10-17.50.54:913][784]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-17.50.54:913][784]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-17.50.54:913][784]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-17.50.54:913][784]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-17.51.08:961][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box20)
+[2022.02.10-17.51.25:550][594]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box21)
+[2022.02.10-17.51.32:160][981]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box21)
+[2022.02.10-17.51.34:220][103]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box22)
+[2022.02.10-17.51.42:883][621]LogEditorViewport: Clicking on Actor (LMB): ForcefiledColliderObject_C (ForcefiledColliderObject)
+[2022.02.10-17.51.55:703][388]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box21)
+[2022.02.10-17.52.10:071][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box23)
+[2022.02.10-17.52.11:969][344]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box21)
+[2022.02.10-17.52.13:547][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box22)
+[2022.02.10-17.52.45:905][345]LogEditorViewport: Clicking on Actor (LMB): ForcefiledColliderHuman_C (ForcefiledColliderHuman)
+[2022.02.10-17.53.08:743][706]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box23)
+[2022.02.10-17.53.11:480][868]LogEditorViewport: Clicking on Actor (LMB): ForcefiledColliderObject_C (ForcefiledColliderObject)
+[2022.02.10-17.53.16:381][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box21)
+[2022.02.10-17.53.17:380][212]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box20)
+[2022.02.10-17.53.18:541][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box19)
+[2022.02.10-17.53.22:432][511]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box24)
+[2022.02.10-17.54.15:755][340]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SuperGrid_Plane2)
+[2022.02.10-17.54.16:540][382]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Plane2)
+[2022.02.10-17.54.57:276][811]LogEditorTransaction: Undo Modify Component(s)
+[2022.02.10-17.54.57:282][811]LogMaterial: Display: Missing cached shadermap for Blue in PCD3D_SM5, Default, SM5 (DDC key hash: 5AAE8878EA94CFD9D80F7E01C9D0E22863633FD1), compiling. 
+[2022.02.10-17.54.57:286][811]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: 8BC6A432205AAF8CED01B8D3D4C75AFDA2EF124C), compiling. 
+[2022.02.10-17.54.57:294][811]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-17.54.57:294][811]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-17.54.57:294][811]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-17.54.57:294][811]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-17.54.57:388][813]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.10-17.54.57:388][813]LogShaderCompilers: Display: Total job queries 4204, among them cache hits 3470 (82.54%)
+[2022.02.10-17.54.57:388][813]LogShaderCompilers: Display: Tracking 659 distinct input hashes that result in 255 distinct outputs (38.69%)
+[2022.02.10-17.54.57:388][813]LogShaderCompilers: Display: RAM used: 1.36 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.08%
+[2022.02.10-17.54.57:388][813]LogShaderCompilers: Display: ================================================
+[2022.02.10-17.54.57:408][814]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-17.54.57:408][814]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2022.02.10-17.54.57:408][814]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-17.54.57:408][814]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-17.54.57:408][814]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-17.54.57:408][814]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-17.54.57:408][814]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-17.54.57:408][814]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-17.54.57:434][815]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-17.54.57:434][815]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2022.02.10-17.54.57:434][815]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-17.54.57:434][815]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-17.54.57:434][815]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-17.54.57:434][815]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-17.56.04:077][804]BlueprintLog: New page: Compile PressurePlate
+[2022.02.10-17.56.04:206][804]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2022.02.10-17.56.39:402][794]LogTexture: Display: Building textures: T_ModernGrid_M (OODLE_AutoDXT, 1024X1024)
+[2022.02.10-17.56.39:403][794]LogTexture: Display: Building textures: T_ModernGrid_N (OODLE_BC5, 1024X1024)
+[2022.02.10-17.56.39:403][794]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.10-17.56.39:403][794]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.10-17.56.39:403][794]LogMaterial: Display: Missing cached shadermap for M_SuperGrid_Modern in PCD3D_SM5, Default, SM5 (DDC key hash: CF11F9EA5AA09164CE771DEC4B72A5AAF4CB31F9), compiling. 
+[2022.02.10-17.56.39:435][794]LogShaderCompilers: Display: Submitted 50 shader compile jobs with 'Low' priority
+[2022.02.10-17.56.39:437][794]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 50
+[2022.02.10-17.56.39:437][794]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 45
+[2022.02.10-17.56.39:437][794]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 40
+[2022.02.10-17.56.39:437][794]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 35
+[2022.02.10-17.56.39:437][794]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 30
+[2022.02.10-17.56.39:437][794]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 25
+[2022.02.10-17.56.39:437][794]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 20
+[2022.02.10-17.56.39:437][794]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 15
+[2022.02.10-17.56.39:437][794]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 10
+[2022.02.10-17.56.39:437][794]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2022.02.10-17.56.39:437][794]LogShaderCompilers: Display: Started 50 'Local' shader compile jobs with 'Low' priority
+[2022.02.10-17.57.46:674][398]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2022.02.10-17.57.46:726][398]LogSavePackage: Moving '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/FirstPersonExampleMap_Auto104B781F64D6A3F1F0AA74D87FE1FFC22.tmp' to '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2022.02.10-17.57.46:727][398]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.090
+[2022.02.10-17.57.46:727][398]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.090
+[2022.02.10-17.57.46:728][398]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPersonBP/LevelObjects/BP_Door] ([2] browsable assets)...
+[2022.02.10-17.57.46:744][398]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/LevelObjects/BP_Door.BP_Door]
+[2022.02.10-17.57.46:744][398]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/LevelObjects/BP_Door]
+[2022.02.10-17.57.46:760][398]LogSavePackage: Moving '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/BP_Door_Auto194C3404142914636558605A009E41F52.tmp' to '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/Autosaves/Game/FirstPersonBP/LevelObjects/BP_Door_Auto1.uasset'
+[2022.02.10-17.57.46:761][398]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPersonBP/LevelObjects/BP_Key] ([2] browsable assets)...
+[2022.02.10-17.57.46:775][398]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/LevelObjects/BP_Key.BP_Key]
+[2022.02.10-17.57.46:775][398]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/LevelObjects/BP_Key]
+[2022.02.10-17.57.46:784][398]LogSavePackage: Moving '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/BP_Key_Auto13BF3E27D44FDC8B85E0C5BACDD4FE54D.tmp' to '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/Autosaves/Game/FirstPersonBP/LevelObjects/BP_Key_Auto1.uasset'
+[2022.02.10-17.57.46:785][398]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPersonBP/LevelObjects/BP_PressureDoor] ([2] browsable assets)...
+[2022.02.10-17.57.46:799][398]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/LevelObjects/BP_PressureDoor.BP_PressureDoor]
+[2022.02.10-17.57.46:799][398]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/LevelObjects/BP_PressureDoor]
+[2022.02.10-17.57.46:820][398]LogSavePackage: Moving '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/BP_PressureDoor_Auto169785BCE43518F25EDDD9183DC9E102D.tmp' to '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/Autosaves/Game/FirstPersonBP/LevelObjects/BP_PressureDoor_Auto1.uasset'
+[2022.02.10-17.57.46:821][398]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPersonBP/LevelObjects/PressurePlate] ([2] browsable assets)...
+[2022.02.10-17.57.46:836][398]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/LevelObjects/PressurePlate.PressurePlate]
+[2022.02.10-17.57.46:837][398]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/LevelObjects/PressurePlate]
+[2022.02.10-17.57.46:850][398]LogSavePackage: Moving '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/PressurePlate_Auto1F05989B14F93D72D211E93844D3827EF.tmp' to '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/Autosaves/Game/FirstPersonBP/LevelObjects/PressurePlate_Auto1.uasset'
+[2022.02.10-17.57.46:852][398]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPersonBP/LevelObjects/ForcefiledColliderObject] ([2] browsable assets)...
+[2022.02.10-17.57.46:866][398]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/LevelObjects/ForcefiledColliderObject.ForcefiledColliderObject]
+[2022.02.10-17.57.46:866][398]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/LevelObjects/ForcefiledColliderObject]
+[2022.02.10-17.57.46:873][398]LogSavePackage: Moving '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/ForcefiledColliderObject_Auto1339F8CD4423C60A4A0F846B773CE8EF9.tmp' to '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/Autosaves/Game/FirstPersonBP/LevelObjects/ForcefiledColliderObject_Auto1.uasset'
+[2022.02.10-17.57.46:873][398]LogFileHelpers: Auto-saving content packages took 0.145
+[2022.02.10-17.58.33:292][588]LogTexture: Display: Building textures: T_Scifi_Floor_Grid_M (OODLE_AutoDXT, 2048X2048)
+[2022.02.10-17.58.33:292][588]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.10-17.58.33:292][588]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.10-17.58.33:292][588]LogTexture: Display: Building textures: T_Scifi_Floor_Grid_AO (OODLE_AutoDXT, 2048X2048)
+[2022.02.10-17.58.33:292][588]LogTexture: Display: Building textures: T_Scifi_Floor_Grid_S (OODLE_AutoDXT, 2048X2048)
+[2022.02.10-17.58.33:292][588]LogTexture: Display: Building textures: T_Scifi_Floor_Grid_R (OODLE_AutoDXT, 2048X2048)
+[2022.02.10-17.58.33:292][588]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.10-17.58.33:292][588]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.10-17.58.33:292][588]LogTexture: Display: Building textures: T_Scifi_Floor_Grid_BC (OODLE_AutoDXT, 2048X2048)
+[2022.02.10-17.58.33:292][588]LogTexture: Display: Building textures: T_Scifi_Floor_Grid_N (OODLE_BC5, 2048X2048)
+[2022.02.10-17.58.33:292][588]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.10-17.58.33:292][588]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.10-17.58.33:292][588]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.10-17.58.33:292][588]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.10-17.58.33:292][588]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.10-17.58.33:292][588]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.10-17.58.33:292][588]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.10-17.58.33:292][588]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.02.10-17.59.34:090][189]LogTexture: Display: Building textures: T_Panels_N (OODLE_BC5, 1024X1024)
+[2022.02.10-17.59.34:090][189]LogTexture: Display: Building textures: T_Panels_M (OODLE_AutoDXT, 1024X1024)
+[2022.02.10-17.59.34:090][189]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.02.10-17.59.34:090][189]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.02.10-17.59.34:090][189]LogMaterial: Display: Missing cached shadermap for M_SuperGrid_PanelCustom in PCD3D_SM5, Default, SM5 (DDC key hash: B001F530D5A5F91A9FAEB39E917D715455010C5A), compiling. 
+[2022.02.10-17.59.34:107][189]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.02.10-17.59.34:109][189]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 25
+[2022.02.10-17.59.34:109][189]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 22
+[2022.02.10-17.59.34:109][189]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 19
+[2022.02.10-17.59.34:109][189]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 16
+[2022.02.10-17.59.34:109][189]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 13
+[2022.02.10-17.59.34:109][189]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 10
+[2022.02.10-17.59.34:109][189]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2022.02.10-17.59.34:109][189]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2022.02.10-17.59.34:109][189]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.02.10-17.59.34:109][189]LogShaderCompilers: Display: Started 25 'Local' shader compile jobs with 'Low' priority
+[2022.02.10-17.59.35:216][250]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.10-17.59.35:216][250]LogShaderCompilers: Display: Total job queries 4287, among them cache hits 3478 (81.13%)
+[2022.02.10-17.59.35:216][250]LogShaderCompilers: Display: Tracking 710 distinct input hashes that result in 295 distinct outputs (41.55%)
+[2022.02.10-17.59.35:216][250]LogShaderCompilers: Display: RAM used: 1.67 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.10%
+[2022.02.10-17.59.35:216][250]LogShaderCompilers: Display: ================================================
+[2022.02.10-18.00.18:502][811]BlueprintLog: New page: Compile PressurePlate
+[2022.02.10-18.00.18:583][811]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.02.10-18.00.33:945][728]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Plane2)
+[2022.02.10-18.00.42:064][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.10-18.00.42:880][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.10-18.00.43:437][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.10-18.00.44:117][333]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.10-18.00.47:276][522]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.02.10-18.00.50:284][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Plane2)
+[2022.02.10-18.00.53:265][870]Cmd: TRANSACTION UNDO
+[2022.02.10-18.00.53:265][870]LogEditorTransaction: Undo Move Actors
+[2022.02.10-18.00.53:267][870]LogMaterial: Display: Missing cached shadermap for Blue in PCD3D_SM5, Default, SM5 (DDC key hash: 206C4DB1D430880D3996F208FBC447E10B814099), compiling. 
+[2022.02.10-18.00.53:271][870]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: 485276A4ACEBC6DF543EBC5157F0C50279026BA8), compiling. 
+[2022.02.10-18.00.53:279][870]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.00.53:279][870]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.00.53:279][870]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.00.53:279][870]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.00.53:409][873]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.00.53:409][873]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2022.02.10-18.00.53:409][873]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.00.53:409][873]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.00.53:409][873]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.00.53:409][873]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.00.53:409][873]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.00.53:409][873]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.00.53:443][874]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.00.53:443][874]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2022.02.10-18.00.53:443][874]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.00.53:443][874]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.00.53:443][874]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.00.53:443][874]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.01.04:717][539]LogEditorViewport: Clicking on Actor (LMB): PressurePlate_C (PressurePlate4)
+[2022.02.10-18.01.18:437][358]LogEditorViewport: Clicking on Actor (LMB): BP_PressureDoor_C (BP_PressureDoor3)
+[2022.02.10-18.01.31:570][106]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Plane)
+[2022.02.10-18.01.32:231][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Plane)
+[2022.02.10-18.01.32:772][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Plane)
+[2022.02.10-18.01.33:677][230]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Plane)
+[2022.02.10-18.01.34:432][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box14)
+[2022.02.10-18.01.35:142][316]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2022.02.10-18.02.02:824][959]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.10-18.02.02:832][959]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.10-18.02.02:832][959]PIE: New page: PIE session: FirstPersonExampleMap (10 lut 2022, 20:02:02)
+[2022.02.10-18.02.02:832][959]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.10-18.02.02:851][959]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018628s)
+[2022.02.10-18.02.02:852][959]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.02.10-18.02.02:852][959]LogPlayLevel: PIE: World Init took: (0.001326s)
+[2022.02.10-18.02.02:852][959]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.020131s)
+[2022.02.10-18.02.02:896][959]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2022.02.10-18.02.02:899][959]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2022.02.10-18.02.02:899][959]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.10-18.02.02:899][959]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.10-18.02.02:899][959]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.10-18.02.02:899][959]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.10-18.02.02:899][959]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.10-18.02.02:899][959]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.10-18.02.02:899][959]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.10-18.02.02:899][959]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.10-18.02.02:899][959]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.10-18.02.02:899][959]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.10-18.02.02:899][959]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.10-18.02.02:899][959]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.10-18.02.02:902][959]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.10-18.02.02:902][959]LogAudioMixer: Display: 1: FrontRight
+[2022.02.10-18.02.02:919][959]LogAudioMixer: Display: Using Audio Device Słuchawki (Realtek(R) Audio)
+[2022.02.10-18.02.02:919][959]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.10-18.02.02:919][959]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.10-18.02.02:919][959]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.10-18.02.02:919][959]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.10-18.02.02:919][959]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.10-18.02.02:919][959]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.10-18.02.02:920][959]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.10-18.02.02:920][959]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.10-18.02.02:920][959]LogInit: FAudioDevice initialized.
+[2022.02.10-18.02.02:920][959]LogAudio: Display: Audio Device (ID: 43) registered with world 'FirstPersonExampleMap'.
+[2022.02.10-18.02.02:926][959]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.02.10-18.02.02:931][959]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.02.10-19.02.02
+[2022.02.10-18.02.02:932][959]LogWorld: Bringing up level for play took: 0.005236
+[2022.02.10-18.02.02:932][959]LogOnline: OSS: Creating online subsystem instance for: :Context_78
+[2022.02.10-18.02.02:936][959]PIE: Server logged in
+[2022.02.10-18.02.02:937][959]PIE: Play in editor total start time 0,108 seconds.
+[2022.02.10-18.02.54:891][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.10-18.02.54:891][ 73]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.10-18.02.54:892][ 73]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.10-18.02.54:893][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.10-18.02.54:904][ 73]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.10-18.02.54:918][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.10-18.02.54:953][ 73]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.10-18.02.54:953][ 73]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.10-18.02.54:954][ 73]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.10-18.02.54:957][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.10-18.02.54:962][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.02.10-18.02.54:996][ 74]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2022.02.10-18.03.15:375][293]LogEditorViewport: Clicking on Actor (LMB): PressurePlate_C (PressurePlate4)
+[2022.02.10-18.03.24:469][835]LogEditorViewport: Clicking on Actor (LMB): BP_TelekinetikProp_C (BP_TelekinetikProp3)
+[2022.02.10-18.03.34:211][415]LogEditorViewport: Clicking on Actor (LMB): PressurePlate_C (PressurePlate4)
+[2022.02.10-18.03.36:779][567]LogEditorViewport: Clicking on Actor (LMB): PressurePlate_C (PressurePlate4)
+[2022.02.10-18.03.40:979][817]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Plane2)
+[2022.02.10-18.03.43:325][956]LogEditorViewport: Clicking on Actor (LMB): ForcefiledColliderObject_C (ForcefiledColliderObject)
+[2022.02.10-18.04.43:524][559]BlueprintLog: New page: Compile BP_TelekinetikProp
+[2022.02.10-18.04.43:615][559]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.02.10-18.04.45:688][679]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.10-18.04.45:696][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.10-18.04.45:696][679]PIE: New page: PIE session: FirstPersonExampleMap (10 lut 2022, 20:04:45)
+[2022.02.10-18.04.45:696][679]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.10-18.04.45:714][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017886s)
+[2022.02.10-18.04.45:715][679]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.02.10-18.04.45:716][679]LogPlayLevel: PIE: World Init took: (0.001306s)
+[2022.02.10-18.04.45:716][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.019414s)
+[2022.02.10-18.04.45:756][679]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2022.02.10-18.04.45:758][679]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2022.02.10-18.04.45:758][679]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.10-18.04.45:758][679]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.10-18.04.45:758][679]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.10-18.04.45:758][679]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.10-18.04.45:758][679]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.10-18.04.45:758][679]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.10-18.04.45:758][679]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.10-18.04.45:758][679]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.10-18.04.45:758][679]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.10-18.04.45:758][679]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.10-18.04.45:758][679]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.10-18.04.45:758][679]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.10-18.04.45:761][679]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.10-18.04.45:761][679]LogAudioMixer: Display: 1: FrontRight
+[2022.02.10-18.04.45:776][679]LogAudioMixer: Display: Using Audio Device Słuchawki (Realtek(R) Audio)
+[2022.02.10-18.04.45:776][679]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.10-18.04.45:776][679]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.10-18.04.45:776][679]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.10-18.04.45:777][679]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.10-18.04.45:777][679]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.10-18.04.45:777][679]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.10-18.04.45:778][679]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.10-18.04.45:778][679]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.10-18.04.45:778][679]LogInit: FAudioDevice initialized.
+[2022.02.10-18.04.45:778][679]LogAudio: Display: Audio Device (ID: 44) registered with world 'FirstPersonExampleMap'.
+[2022.02.10-18.04.45:785][679]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.02.10-18.04.45:790][679]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.02.10-19.04.45
+[2022.02.10-18.04.45:791][679]LogWorld: Bringing up level for play took: 0.005366
+[2022.02.10-18.04.45:792][679]LogOnline: OSS: Creating online subsystem instance for: :Context_79
+[2022.02.10-18.04.45:795][679]PIE: Server logged in
+[2022.02.10-18.04.45:796][679]PIE: Play in editor total start time 0,103 seconds.
+[2022.02.10-18.05.39:001][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.10-18.05.39:001][866]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.10-18.05.39:002][866]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.10-18.05.39:003][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.10-18.05.39:014][866]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.10-18.05.39:024][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.10-18.05.39:059][866]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.10-18.05.39:060][866]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.10-18.05.39:061][866]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.10-18.05.39:064][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.10-18.05.39:069][866]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.02.10-18.05.39:105][867]LogPlayLevel: Display: Destroying online subsystem :Context_79
+[2022.02.10-18.05.43:714][142]LogEditorViewport: Clicking on Actor (LMB): BP_TelekinetikProp_C (BP_TelekinetikProp11)
+[2022.02.10-18.05.57:382][958]LogEditorViewport: Clicking on Actor (LMB): ForcefiledColliderHuman_C (ForcefieldColider2)
+[2022.02.10-18.05.59:387][ 77]LogEditorViewport: Clicking on Actor (LMB): PressurePlate_C (PressurePlate3)
+[2022.02.10-18.06.10:870][761]LogEditorViewport: Clicking on Actor (LMB): BP_PressureDoor_C (BP_PressureDoor3)
+[2022.02.10-18.06.15:018][  8]LogEditorViewport: Clicking on Actor (LMB): BP_TelekinetikProp_C (BP_TelekinetikProp3)
+[2022.02.10-18.07.00:010][681]LogEditorViewport: Clicking on Actor (LMB): PressurePlate_C (PressurePlate4)
+[2022.02.10-18.07.01:148][748]LogEditorViewport: Clicking on Actor (LMB): PressurePlate_C (PressurePlate4)
+[2022.02.10-18.07.09:888][272]LogEditorViewport: Clicking on Actor (LMB): BP_PressureDoor_C (BP_PressureDoor3)
+[2022.02.10-18.07.16:344][658]LogEditorViewport: Clicking on Actor (LMB): PressurePlate_C (PressurePlate4)
+[2022.02.10-18.07.43:181][255]LogEditorViewport: Clicking on Actor (LMB): PressurePlate_C (PressurePlate3)
+[2022.02.10-18.08.03:153][442]LogEditorViewport: Clicking on Actor (LMB): PressurePlate_C (PressurePlate4)
+[2022.02.10-18.08.12:286][986]LogEditorViewport: Clicking on Actor (LMB): PressurePlate_C (PressurePlate3)
+[2022.02.10-18.08.30:940][101]LogEditorViewport: Clicking on Actor (LMB): PressurePlate_C (PressurePlate4)
+[2022.02.10-18.08.45:849][977]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.10-18.08.45:857][977]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.10-18.08.45:857][977]PIE: New page: PIE session: FirstPersonExampleMap (10 lut 2022, 20:08:45)
+[2022.02.10-18.08.45:878][977]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.10-18.08.45:896][977]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018107s)
+[2022.02.10-18.08.45:897][977]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.02.10-18.08.45:897][977]LogPlayLevel: PIE: World Init took: (0.001250s)
+[2022.02.10-18.08.45:897][977]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.019587s)
+[2022.02.10-18.08.45:939][977]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.02.10-18.08.45:940][977]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2022.02.10-18.08.45:941][977]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.10-18.08.45:941][977]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.10-18.08.45:941][977]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.10-18.08.45:941][977]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.10-18.08.45:941][977]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.10-18.08.45:941][977]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.10-18.08.45:941][977]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.10-18.08.45:941][977]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.10-18.08.45:941][977]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.10-18.08.45:941][977]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.10-18.08.45:941][977]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.10-18.08.45:941][977]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.10-18.08.45:943][977]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.10-18.08.45:943][977]LogAudioMixer: Display: 1: FrontRight
+[2022.02.10-18.08.45:960][977]LogAudioMixer: Display: Using Audio Device Słuchawki (Realtek(R) Audio)
+[2022.02.10-18.08.45:961][977]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.10-18.08.45:961][977]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.10-18.08.45:961][977]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.10-18.08.45:961][977]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.10-18.08.45:961][977]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.10-18.08.45:961][977]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.10-18.08.45:962][977]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.10-18.08.45:962][977]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.10-18.08.45:962][977]LogInit: FAudioDevice initialized.
+[2022.02.10-18.08.45:962][977]LogAudio: Display: Audio Device (ID: 45) registered with world 'FirstPersonExampleMap'.
+[2022.02.10-18.08.45:970][977]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.02.10-18.08.45:975][977]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.02.10-19.08.45
+[2022.02.10-18.08.45:976][977]LogWorld: Bringing up level for play took: 0.005094
+[2022.02.10-18.08.45:976][977]LogOnline: OSS: Creating online subsystem instance for: :Context_80
+[2022.02.10-18.08.45:979][977]PIE: Server logged in
+[2022.02.10-18.08.45:980][977]PIE: Play in editor total start time 0,126 seconds.
+[2022.02.10-18.09.39:992][215]LogBlueprintUserMessages: [BP_Door2] Unlocked
+[2022.02.10-18.09.45:101][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.10-18.09.45:101][519]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.10-18.09.45:102][519]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.10-18.09.45:102][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.10-18.09.45:115][519]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.10-18.09.45:124][519]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.10-18.09.45:159][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.10-18.09.45:159][519]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.10-18.09.45:160][519]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.10-18.09.45:169][519]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2022.02.10-18.09.45:207][520]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2022.02.10-18.09.50:711][849]LogEditorViewport: Clicking on Actor (LMB): PressurePlate_C (PressurePlate3)
+[2022.02.10-18.10.01:051][467]LogEditorViewport: Clicking on Actor (LMB): ForcefiledColliderObject_C (ForcefiledColliderObject)
+[2022.02.10-18.10.21:237][668]BlueprintLog: New page: Compile ForcefiledColliderObject
+[2022.02.10-18.10.21:306][668]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.02.10-18.10.23:381][788]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.10-18.10.23:389][788]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.10-18.10.23:389][788]PIE: New page: PIE session: FirstPersonExampleMap (10 lut 2022, 20:10:23)
+[2022.02.10-18.10.23:438][788]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.10-18.10.23:456][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018558s)
+[2022.02.10-18.10.23:457][788]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.02.10-18.10.23:458][788]LogPlayLevel: PIE: World Init took: (0.001231s)
+[2022.02.10-18.10.23:458][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.020052s)
+[2022.02.10-18.10.23:495][788]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.02.10-18.10.23:496][788]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2022.02.10-18.10.23:496][788]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.10-18.10.23:496][788]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.10-18.10.23:497][788]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.10-18.10.23:497][788]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.10-18.10.23:497][788]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.10-18.10.23:497][788]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.10-18.10.23:497][788]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.10-18.10.23:497][788]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.10-18.10.23:497][788]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.10-18.10.23:497][788]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.10-18.10.23:497][788]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.10-18.10.23:497][788]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.10-18.10.23:499][788]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.10-18.10.23:499][788]LogAudioMixer: Display: 1: FrontRight
+[2022.02.10-18.10.23:513][788]LogAudioMixer: Display: Using Audio Device Słuchawki (Realtek(R) Audio)
+[2022.02.10-18.10.23:513][788]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.10-18.10.23:513][788]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.10-18.10.23:513][788]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.10-18.10.23:513][788]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.10-18.10.23:513][788]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.10-18.10.23:513][788]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.10-18.10.23:515][788]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.10-18.10.23:515][788]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.10-18.10.23:515][788]LogInit: FAudioDevice initialized.
+[2022.02.10-18.10.23:515][788]LogAudio: Display: Audio Device (ID: 46) registered with world 'FirstPersonExampleMap'.
+[2022.02.10-18.10.23:525][788]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.02.10-18.10.23:530][788]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.02.10-19.10.23
+[2022.02.10-18.10.23:531][788]LogWorld: Bringing up level for play took: 0.005267
+[2022.02.10-18.10.23:531][788]LogOnline: OSS: Creating online subsystem instance for: :Context_81
+[2022.02.10-18.10.23:535][788]PIE: Server logged in
+[2022.02.10-18.10.23:536][788]PIE: Play in editor total start time 0,15 seconds.
+[2022.02.10-18.11.02:981][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.10-18.11.02:982][150]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.10-18.11.02:982][150]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.10-18.11.02:983][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.10-18.11.02:998][150]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.10-18.11.03:007][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.10-18.11.03:040][150]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.10-18.11.03:041][150]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.10-18.11.03:042][150]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.10-18.11.03:044][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.10-18.11.03:049][150]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2022.02.10-18.11.03:087][151]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2022.02.10-18.11.07:101][390]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/LevelObjects/BP_Light.BP_Light
+[2022.02.10-18.11.38:394][149]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/LevelObjects/BP_Switch.BP_Switch
+[2022.02.10-18.11.57:688][288]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Doors/BPI_Toggle.BPI_Toggle
+[2022.02.10-18.12.34:386][468]LogEditorViewport: Clicking on Actor (LMB): BP_PressureDoor_C (BP_PressureDoor3)
+[2022.02.10-18.13.49:105][934]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.10-18.13.51:243][ 62]BlueprintLog: New page: Compile BP_PressureDoor
+[2022.02.10-18.13.51:340][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2022.02.10-18.15.07:283][606]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.02.10-18.15.07:283][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.10-18.17.39:935][736]BlueprintLog: New page: Compile BP_PressureDoor
+[2022.02.10-18.17.40:019][736]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2022.02.10-18.17.47:469][178]LogEditorViewport: Clicking on Actor (LMB): BP_PressureDoor_C (BP_PressureDoor3)
+[2022.02.10-18.18.54:861][214]LogEditorTransaction: Undo Edit Is Turn On
+[2022.02.10-18.18.54:864][214]LogMaterial: Display: Missing cached shadermap for Blue in PCD3D_SM5, Default, SM5 (DDC key hash: 4ED615092EFAFED7580FBDCA17BD66EC0261B666), compiling. 
+[2022.02.10-18.18.54:867][214]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: 1FBCC53E8ADA1D8E6109114A6EB0AFA458456E53), compiling. 
+[2022.02.10-18.18.54:873][214]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.18.54:873][214]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.54:873][214]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.18.54:873][214]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.54:924][216]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.10-18.18.54:924][216]LogShaderCompilers: Display: Total job queries 4392, among them cache hits 3583 (81.58%)
+[2022.02.10-18.18.54:924][216]LogShaderCompilers: Display: Tracking 734 distinct input hashes that result in 311 distinct outputs (42.37%)
+[2022.02.10-18.18.54:924][216]LogShaderCompilers: Display: RAM used: 1.80 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.11%
+[2022.02.10-18.18.54:924][216]LogShaderCompilers: Display: ================================================
+[2022.02.10-18.18.54:940][217]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.18.54:940][217]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2022.02.10-18.18.54:940][217]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.18.54:940][217]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.18.54:940][217]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.54:940][217]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.54:966][218]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.18.54:966][218]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2022.02.10-18.18.54:967][218]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.18.54:967][218]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.18.54:967][218]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.54:967][218]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.56:115][283]LogEditorTransaction: Undo Edit Is Turn On
+[2022.02.10-18.18.56:118][283]LogMaterial: Display: Missing cached shadermap for Blue in PCD3D_SM5, Default, SM5 (DDC key hash: 901DCDC1F29241F59DDF64E3B0FB85BAAA7964E3), compiling. 
+[2022.02.10-18.18.56:121][283]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: 9E548085C075B5C0C44858CCA71C14FC0A69B1F4), compiling. 
+[2022.02.10-18.18.56:123][283]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.18.56:123][283]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.56:123][283]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.18.56:123][283]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.56:201][287]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.18.56:201][287]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2022.02.10-18.18.56:201][287]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.18.56:201][287]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.18.56:201][287]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.56:201][287]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.56:201][287]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.56:201][287]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.56:217][288]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.18.56:217][288]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2022.02.10-18.18.56:217][288]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.18.56:217][288]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.18.56:217][288]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.56:217][288]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.56:316][294]LogEditorTransaction: Undo Edit Is Turn On
+[2022.02.10-18.18.56:319][294]LogMaterial: Display: Missing cached shadermap for Blue in PCD3D_SM5, Default, SM5 (DDC key hash: B5FF2B5CE8EC55AF079D491382E10EFDEE6CA45C), compiling. 
+[2022.02.10-18.18.56:322][294]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: 90A853E0AAD1FCBFF19A51113E7423C89500E196), compiling. 
+[2022.02.10-18.18.56:324][294]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.18.56:324][294]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.56:324][294]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.18.56:324][294]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.56:400][298]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.18.56:400][298]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2022.02.10-18.18.56:400][298]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.18.56:400][298]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.18.56:400][298]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.56:400][298]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.56:400][298]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.56:400][298]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.56:417][299]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.18.56:417][299]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2022.02.10-18.18.56:417][299]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.18.56:417][299]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.18.56:417][299]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.56:417][299]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.56:516][305]LogEditorTransaction: Undo Edit Is Turn On
+[2022.02.10-18.18.56:519][305]LogMaterial: Display: Missing cached shadermap for Blue in PCD3D_SM5, Default, SM5 (DDC key hash: FC33EC086B6301B097DE0A8C7B12F5A0A99DDBD5), compiling. 
+[2022.02.10-18.18.56:522][305]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: B1151A698A6C6F62EFA49C78543B5B1BDF140B0C), compiling. 
+[2022.02.10-18.18.56:525][305]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.18.56:525][305]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.56:525][305]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.18.56:525][305]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.56:602][309]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.18.56:602][309]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2022.02.10-18.18.56:602][309]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.18.56:602][309]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.18.56:602][309]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.56:602][309]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.56:602][309]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.56:602][309]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.56:618][310]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.18.56:619][310]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2022.02.10-18.18.56:619][310]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.18.56:619][310]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.18.56:619][310]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.56:619][310]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.56:718][316]LogEditorTransaction: Undo Edit Is Turn On
+[2022.02.10-18.18.56:721][316]LogMaterial: Display: Missing cached shadermap for Blue in PCD3D_SM5, Default, SM5 (DDC key hash: 62B1224E723430E881FE7915859FDD8A0E21F276), compiling. 
+[2022.02.10-18.18.56:723][316]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: 4F59F78588921B768A13F24446BC3369214277D4), compiling. 
+[2022.02.10-18.18.56:726][316]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.18.56:726][316]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.56:726][316]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.18.56:726][316]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.56:803][320]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.18.56:803][320]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2022.02.10-18.18.56:803][320]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.18.56:803][320]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.18.56:803][320]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.56:803][320]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.56:803][320]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.56:803][320]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.56:819][321]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.18.56:819][321]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2022.02.10-18.18.56:819][321]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.18.56:819][321]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.18.56:819][321]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.56:819][321]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.56:918][327]LogEditorTransaction: Undo Edit Is Turn On
+[2022.02.10-18.18.56:921][327]LogMaterial: Display: Missing cached shadermap for Blue in PCD3D_SM5, Default, SM5 (DDC key hash: 719086D7DED541F07A3E789187A49564985489C6), compiling. 
+[2022.02.10-18.18.56:924][327]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: 354890AC79B65F8BDB82A9626626D43A06B66434), compiling. 
+[2022.02.10-18.18.56:927][327]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.18.56:927][327]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.56:927][327]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.18.56:927][327]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.57:003][331]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.18.57:003][331]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2022.02.10-18.18.57:004][331]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.18.57:004][331]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.18.57:004][331]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.57:004][331]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.57:004][331]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.57:004][331]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.57:020][332]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.18.57:020][332]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2022.02.10-18.18.57:020][332]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.18.57:021][332]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.18.57:021][332]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.57:021][332]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.57:136][339]LogEditorTransaction: Undo Edit Is Turn On
+[2022.02.10-18.18.57:139][339]LogMaterial: Display: Missing cached shadermap for Blue in PCD3D_SM5, Default, SM5 (DDC key hash: 7C70BF196AD000E6C824B0143913392CA35FA237), compiling. 
+[2022.02.10-18.18.57:142][339]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: EDB43E0AFB0D4A4EBD1E6448C4FD212E062BCE43), compiling. 
+[2022.02.10-18.18.57:144][339]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.18.57:144][339]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.57:144][339]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.18.57:144][339]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.57:222][343]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.18.57:222][343]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2022.02.10-18.18.57:222][343]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.18.57:222][343]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.18.57:222][343]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.57:222][343]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.57:222][343]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.57:222][343]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.57:238][344]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.18.57:238][344]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2022.02.10-18.18.57:238][344]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.18.57:238][344]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.18.57:238][344]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.57:238][344]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.57:387][353]LogEditorTransaction: Undo Edit Is Turn On
+[2022.02.10-18.18.57:390][353]LogMaterial: Display: Missing cached shadermap for Blue in PCD3D_SM5, Default, SM5 (DDC key hash: B6536DAB1B719A67E65B46DC183786D6902CF785), compiling. 
+[2022.02.10-18.18.57:393][353]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: 88C77B8B84FA1839275B98992520DB24DA0CE28E), compiling. 
+[2022.02.10-18.18.57:395][353]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.18.57:395][353]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.57:395][353]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.18.57:395][353]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.57:471][357]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.18.57:471][357]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2022.02.10-18.18.57:471][357]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.18.57:471][357]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.18.57:471][357]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.57:471][357]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.57:471][357]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.57:471][357]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.57:488][358]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.18.57:488][358]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2022.02.10-18.18.57:488][358]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.18.57:488][358]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.18.57:488][358]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.57:488][358]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.57:637][367]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2022.02.10-18.18.57:645][367]LogMaterial: Display: Missing cached shadermap for Blue in PCD3D_SM5, Default, SM5 (DDC key hash: DBA1EB0318F037DF1439CB89E013F31ECA22F71F), compiling. 
+[2022.02.10-18.18.57:647][367]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: 62CEB98B40C4569D13A822E58EDD64C31012060B), compiling. 
+[2022.02.10-18.18.57:650][367]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.18.57:650][367]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.57:650][367]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.18.57:650][367]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.57:739][371]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.18.57:739][371]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2022.02.10-18.18.57:739][371]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.18.57:739][371]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.18.57:739][371]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.57:739][371]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.57:739][371]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.57:739][371]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.57:756][372]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.18.57:756][372]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2022.02.10-18.18.57:756][372]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.18.57:756][372]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.18.57:756][372]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.57:756][372]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.57:822][376]LogEditorTransaction: Undo Move Components
+[2022.02.10-18.18.57:830][376]LogMaterial: Display: Missing cached shadermap for Blue in PCD3D_SM5, Default, SM5 (DDC key hash: 826C6D0A794562C3F7B6D9254EF8B472756D6A92), compiling. 
+[2022.02.10-18.18.57:832][376]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: 44B6985931C7805A7CBD6D55DF7348DB2860C6D6), compiling. 
+[2022.02.10-18.18.57:836][376]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.18.57:837][376]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.57:837][376]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.18.57:837][376]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.57:920][380]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.18.57:920][380]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2022.02.10-18.18.57:920][380]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.18.57:920][380]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.18.57:920][380]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.57:920][380]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.57:920][380]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.57:920][380]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.57:936][381]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.18.57:936][381]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2022.02.10-18.18.57:936][381]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.18.57:936][381]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.18.57:936][381]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.57:936][381]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.58:052][388]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2022.02.10-18.18.58:061][388]LogMaterial: Display: Missing cached shadermap for Blue in PCD3D_SM5, Default, SM5 (DDC key hash: DEB13E6FAE269C884D4432958D6D8E0BFBFC1CA5), compiling. 
+[2022.02.10-18.18.58:063][388]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: 0DC3E981D33D5CB3F42234271B79D486C9256580), compiling. 
+[2022.02.10-18.18.58:067][388]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.18.58:067][388]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.58:067][388]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.18.58:067][388]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.58:148][392]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.18.58:148][392]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2022.02.10-18.18.58:148][392]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.18.58:148][392]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.18.58:148][392]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.58:148][392]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.58:148][392]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.58:148][392]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.58:165][393]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.18.58:165][393]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2022.02.10-18.18.58:165][393]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.18.58:165][393]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.18.58:165][393]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.58:165][393]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.58:331][403]LogEditorTransaction: Undo Move Nodes
+[2022.02.10-18.18.58:344][403]LogMaterial: Display: Missing cached shadermap for Blue in PCD3D_SM5, Default, SM5 (DDC key hash: D968B510CA2A1882C775825CAEEA83DECAE86B4B), compiling. 
+[2022.02.10-18.18.58:348][403]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: AF07C66B1E1945F8236FC32F098511A7663E9867), compiling. 
+[2022.02.10-18.18.58:351][403]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.18.58:351][403]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.58:351][403]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.18.58:351][403]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.58:454][407]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.18.58:455][407]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2022.02.10-18.18.58:455][407]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.18.58:455][407]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.18.58:455][407]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.58:455][407]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.58:455][407]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.58:455][407]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.58:471][408]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.18.58:471][408]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2022.02.10-18.18.58:471][408]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.18.58:471][408]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.18.58:471][408]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.58:471][408]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.58:988][439]LogEditorTransaction: Undo Move Nodes
+[2022.02.10-18.18.59:004][439]LogMaterial: Display: Missing cached shadermap for Blue in PCD3D_SM5, Default, SM5 (DDC key hash: 6EF25131F4E252CFC1FC62CE7E8B517B1FE11A52), compiling. 
+[2022.02.10-18.18.59:007][439]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: C1BA9BF11FB0B883C7AA4901BFC88C911C3E1DB8), compiling. 
+[2022.02.10-18.18.59:011][439]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.18.59:011][439]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.59:011][439]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.18.59:011][439]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.59:103][443]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.18.59:103][443]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2022.02.10-18.18.59:103][443]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.18.59:103][443]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.18.59:103][443]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.59:103][443]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.59:103][443]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.59:103][443]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.59:120][444]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.18.59:120][444]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2022.02.10-18.18.59:120][444]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.18.59:120][444]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.18.59:120][444]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.59:120][444]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.59:469][465]LogEditorTransaction: Undo Move Node
+[2022.02.10-18.18.59:485][465]LogMaterial: Display: Missing cached shadermap for Blue in PCD3D_SM5, Default, SM5 (DDC key hash: 21F68FE84D644630FFCCE1D3D20BE0080BCC72DD), compiling. 
+[2022.02.10-18.18.59:488][465]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: E7DDDC6F76E48E85968EF63C71E36E3D90B25CAA), compiling. 
+[2022.02.10-18.18.59:493][465]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.18.59:493][465]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.59:493][465]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.18.59:493][465]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.59:580][469]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.18.59:581][469]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2022.02.10-18.18.59:581][469]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.18.59:581][469]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.18.59:581][469]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.59:581][469]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.59:581][469]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.59:581][469]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.59:597][470]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.18.59:597][470]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2022.02.10-18.18.59:597][470]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.18.59:597][470]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.18.59:597][470]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.59:597][470]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.59:796][482]LogEditorTransaction: Undo Create Pin Link
+[2022.02.10-18.18.59:812][482]LogMaterial: Display: Missing cached shadermap for Blue in PCD3D_SM5, Default, SM5 (DDC key hash: 75624D1F2A29E2E7817B7D112996B9E502180CA4), compiling. 
+[2022.02.10-18.18.59:816][482]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: AAB2F8D57223271E45349AC3B1DD298AD18CC241), compiling. 
+[2022.02.10-18.18.59:820][482]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.18.59:820][482]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.59:820][482]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.18.59:820][482]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.59:905][486]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.18.59:905][486]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2022.02.10-18.18.59:905][486]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.18.59:905][486]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.18.59:905][486]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.59:905][486]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.59:905][486]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.59:905][486]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.18.59:922][487]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.18.59:922][487]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2022.02.10-18.18.59:922][487]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.18.59:922][487]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.18.59:922][487]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.18.59:922][487]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.00:105][498]LogEditorTransaction: Undo Add Node
+[2022.02.10-18.19.00:121][498]LogMaterial: Display: Missing cached shadermap for Blue in PCD3D_SM5, Default, SM5 (DDC key hash: BF75AAA462A2A63A62179A089E9840C1CAC15F44), compiling. 
+[2022.02.10-18.19.00:124][498]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: 045D31555E303D76123B31C5EEFB42066716EB9E), compiling. 
+[2022.02.10-18.19.00:129][498]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.19.00:129][498]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.00:129][498]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.19.00:129][498]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.00:222][501]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.19.00:222][501]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2022.02.10-18.19.00:222][501]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.19.00:222][501]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.19.00:222][501]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.19.00:222][501]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.00:222][501]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.19.00:222][501]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2022.02.10-18.19.00:222][501]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.19.00:222][501]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.19.00:222][501]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.19.00:222][501]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.00:577][523]LogEditorTransaction: Undo Move Node
+[2022.02.10-18.19.00:593][523]LogMaterial: Display: Missing cached shadermap for Blue in PCD3D_SM5, Default, SM5 (DDC key hash: 678A9AEA4D42B8F775BFD7958ADAE9E4C4C5E566), compiling. 
+[2022.02.10-18.19.00:596][523]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: E9FFDEAFE88C2B3C1EFB48505CBF647440FE4B32), compiling. 
+[2022.02.10-18.19.00:600][523]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.19.00:601][523]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.00:601][523]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.19.00:601][523]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.00:707][527]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.19.00:707][527]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2022.02.10-18.19.00:707][527]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.19.00:707][527]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.19.00:707][527]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.19.00:707][527]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.00:707][527]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.19.00:707][527]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.00:723][528]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.19.00:723][528]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2022.02.10-18.19.00:723][528]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.19.00:723][528]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.19.00:723][528]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.19.00:723][528]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.01:073][549]LogEditorTransaction: Undo Rename Variable
+[2022.02.10-18.19.01:092][549]LogMaterial: Display: Missing cached shadermap for Blue in PCD3D_SM5, Default, SM5 (DDC key hash: 995FAEA248570FF18A3A849B7C66590E3393D637), compiling. 
+[2022.02.10-18.19.01:096][549]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: 76D01674FF2E761B0877BC2CF5D576380FEE437E), compiling. 
+[2022.02.10-18.19.01:100][549]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.19.01:101][549]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.01:101][549]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.19.01:101][549]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.01:198][553]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.19.01:198][553]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2022.02.10-18.19.01:198][553]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.19.01:198][553]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.19.01:198][553]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.19.01:198][553]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.01:198][553]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.19.01:198][553]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.01:215][554]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.19.01:215][554]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2022.02.10-18.19.01:215][554]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.19.01:215][554]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.19.01:215][554]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.19.01:215][554]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.01:497][571]LogEditorTransaction: Undo Add Variable
+[2022.02.10-18.19.01:517][571]LogMaterial: Display: Missing cached shadermap for Blue in PCD3D_SM5, Default, SM5 (DDC key hash: 205A0FA9D8B373128D693E3379317A458A2B96A9), compiling. 
+[2022.02.10-18.19.01:521][571]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: 56180C9103804425FB8A6BE74FEF2D61AB1023F6), compiling. 
+[2022.02.10-18.19.01:525][571]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.19.01:525][571]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.01:525][571]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.19.01:525][571]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.01:620][575]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.19.01:621][575]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2022.02.10-18.19.01:621][575]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.19.01:621][575]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.19.01:621][575]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.19.01:621][575]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.01:621][575]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.19.01:621][575]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.01:637][576]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.19.01:637][576]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2022.02.10-18.19.01:637][576]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.19.01:637][576]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.19.01:637][576]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.19.01:637][576]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.01:886][591]LogEditorTransaction: Undo Move Node
+[2022.02.10-18.19.01:902][591]LogMaterial: Display: Missing cached shadermap for Blue in PCD3D_SM5, Default, SM5 (DDC key hash: AF686585836411B251FD00C4D283BD8625DF9BBD), compiling. 
+[2022.02.10-18.19.01:905][591]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: D809A318F9220113996032565A292845188BBA9C), compiling. 
+[2022.02.10-18.19.01:910][591]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.19.01:910][591]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.01:910][591]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.19.01:910][591]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.02:012][595]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.19.02:012][595]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2022.02.10-18.19.02:012][595]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.19.02:012][595]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.19.02:012][595]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.19.02:012][595]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.02:012][595]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.19.02:012][595]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2022.02.10-18.19.02:012][595]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.19.02:012][595]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.19.02:012][595]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.19.02:012][595]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.02:319][614]LogEditorTransaction: Undo Move Nodes
+[2022.02.10-18.19.02:335][614]LogMaterial: Display: Missing cached shadermap for Blue in PCD3D_SM5, Default, SM5 (DDC key hash: BA931D9D1557ADB22C1B90CFCCE2DB073866CE44), compiling. 
+[2022.02.10-18.19.02:339][614]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: 04FDAAC276562C5592AFD73D323357225F060244), compiling. 
+[2022.02.10-18.19.02:343][614]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.19.02:343][614]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.02:343][614]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.19.02:343][614]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.02:443][618]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.19.02:443][618]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2022.02.10-18.19.02:443][618]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.19.02:443][618]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.19.02:443][618]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.19.02:443][618]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.02:443][618]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.19.02:443][618]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2022.02.10-18.19.02:443][618]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.19.02:443][618]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.19.02:443][618]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.19.02:443][618]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.02:733][636]LogEditorTransaction: Undo Create Pin Link
+[2022.02.10-18.19.02:749][636]LogMaterial: Display: Missing cached shadermap for Blue in PCD3D_SM5, Default, SM5 (DDC key hash: 4978AA38B32BAF7762040E516006C0E18CFD516A), compiling. 
+[2022.02.10-18.19.02:753][636]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: 9CF4A4E71CD448AE4E20DFE255BEA908250927D6), compiling. 
+[2022.02.10-18.19.02:757][636]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.19.02:757][636]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.02:757][636]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.19.02:757][636]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.02:852][640]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.19.02:852][640]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2022.02.10-18.19.02:852][640]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.19.02:852][640]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.19.02:852][640]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.19.02:852][640]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.02:852][640]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.19.02:852][640]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2022.02.10-18.19.02:852][640]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.19.02:852][640]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.19.02:852][640]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.19.02:852][640]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.03:127][657]LogEditorTransaction: Undo Create Pin Link
+[2022.02.10-18.19.03:143][657]LogMaterial: Display: Missing cached shadermap for Blue in PCD3D_SM5, Default, SM5 (DDC key hash: DF7C8D6714086A8A21731768FB063294209967F3), compiling. 
+[2022.02.10-18.19.03:146][657]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: 62A4AEBA0BE98F238A4CBAC27739F24BE2D0DF0F), compiling. 
+[2022.02.10-18.19.03:150][657]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.19.03:150][657]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.03:150][657]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.19.03:150][657]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.03:240][661]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.19.03:240][661]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2022.02.10-18.19.03:240][661]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.19.03:240][661]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.19.03:240][661]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.19.03:240][661]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.03:241][661]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.19.03:241][661]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.03:257][662]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.19.03:257][662]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2022.02.10-18.19.03:257][662]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.19.03:257][662]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.19.03:257][662]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.19.03:257][662]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.03:673][687]LogEditorTransaction: Undo Move Nodes
+[2022.02.10-18.19.03:689][687]LogMaterial: Display: Missing cached shadermap for Blue in PCD3D_SM5, Default, SM5 (DDC key hash: E6E775CFCC9D09C4DC438B88C513EE13BAB271DC), compiling. 
+[2022.02.10-18.19.03:692][687]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: 631291A3666606E52FA492C731D082D03C49A06E), compiling. 
+[2022.02.10-18.19.03:697][687]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.19.03:697][687]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.03:697][687]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.19.03:697][687]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.03:797][691]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.19.03:797][691]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2022.02.10-18.19.03:797][691]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.19.03:797][691]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.19.03:797][691]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.19.03:797][691]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.03:797][691]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.19.03:797][691]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2022.02.10-18.19.03:797][691]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.19.03:797][691]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.19.03:797][691]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.19.03:797][691]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.19.09:563][ 35]BlueprintLog: New page: Compile BP_PressureDoor
+[2022.02.10-18.19.09:648][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2022.02.10-18.19.22:244][785]BlueprintLog: New page: Compile BP_PressureDoor
+[2022.02.10-18.19.22:321][785]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2022.02.10-18.19.27:670][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box11)
+[2022.02.10-18.20.41:557][524]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box20)
+[2022.02.10-18.21.07:601][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box12)
+[2022.02.10-18.21.08:137][101]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Door_C (BP_Door2)
+[2022.02.10-18.21.08:672][132]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SuperGrid_Box10)
+[2022.02.10-18.21.10:079][215]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SuperGrid_Box11)
+[2022.02.10-18.21.15:545][542]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box10)
+[2022.02.10-18.21.24:402][ 72]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box25)
+[2022.02.10-18.21.25:495][136]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box11)
+[2022.02.10-18.22.05:479][523]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2022.02.10-18.22.05:528][523]LogSavePackage: Moving '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/FirstPersonExampleMap_Auto27240DC4A4927B0D1EA372DA01D9263CF.tmp' to '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2022.02.10-18.22.05:530][523]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.094
+[2022.02.10-18.22.05:530][523]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.094
+[2022.02.10-18.22.05:531][523]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPersonBP/LevelObjects/BP_PressureDoor] ([4] browsable assets)...
+[2022.02.10-18.22.05:542][523]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/LevelObjects/BP_PressureDoor.BP_PressureDoor]
+[2022.02.10-18.22.05:549][523]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/LevelObjects/BP_PressureDoor.BP_PressureDoor]
+[2022.02.10-18.22.05:549][523]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/LevelObjects/BP_PressureDoor]
+[2022.02.10-18.22.05:570][523]LogSavePackage: Moving '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/BP_PressureDoor_Auto2F20B90B04CB7A07BC5306B9F2C7FF385.tmp' to '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/Autosaves/Game/FirstPersonBP/LevelObjects/BP_PressureDoor_Auto2.uasset'
+[2022.02.10-18.22.05:571][523]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPersonBP/Telekinesis/BP_TelekinetikProp] ([2] browsable assets)...
+[2022.02.10-18.22.05:578][523]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Telekinesis/BP_TelekinetikProp.BP_TelekinetikProp]
+[2022.02.10-18.22.05:578][523]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Telekinesis/BP_TelekinetikProp]
+[2022.02.10-18.22.05:645][523]LogSavePackage: Moving '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/BP_TelekinetikProp_Auto2494A5C934590FDA9C0D71387FA98D7EE.tmp' to '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/Autosaves/Game/FirstPersonBP/Telekinesis/BP_TelekinetikProp_Auto2.uasset'
+[2022.02.10-18.22.05:647][523]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPersonBP/LevelObjects/PressurePlate] ([2] browsable assets)...
+[2022.02.10-18.22.05:654][523]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/LevelObjects/PressurePlate.PressurePlate]
+[2022.02.10-18.22.05:654][523]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/LevelObjects/PressurePlate]
+[2022.02.10-18.22.05:669][523]LogSavePackage: Moving '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/PressurePlate_Auto25C2F2D1A41C6A9B0A3239A9CAA5494B1.tmp' to '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/Autosaves/Game/FirstPersonBP/LevelObjects/PressurePlate_Auto2.uasset'
+[2022.02.10-18.22.05:670][523]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPersonBP/LevelObjects/ForcefiledColliderObject] ([2] browsable assets)...
+[2022.02.10-18.22.05:677][523]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/LevelObjects/ForcefiledColliderObject.ForcefiledColliderObject]
+[2022.02.10-18.22.05:677][523]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/LevelObjects/ForcefiledColliderObject]
+[2022.02.10-18.22.05:684][523]LogSavePackage: Moving '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/ForcefiledColliderObject_Auto286E2DD7346D3C74D7E5D1A90B82F9BB3.tmp' to '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/Autosaves/Game/FirstPersonBP/LevelObjects/ForcefiledColliderObject_Auto2.uasset'
+[2022.02.10-18.22.05:684][523]LogFileHelpers: Auto-saving content packages took 0.154
+[2022.02.10-18.22.20:165][388]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SuperGrid_Box14)
+[2022.02.10-18.22.21:309][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box14)
+[2022.02.10-18.23.00:288][785]LogEditorViewport: Clicking on Actor (LMB): BP_Light_C (BP_Light5)
+[2022.02.10-18.23.17:113][791]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.10-18.23.17:126][791]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.10-18.23.23:871][192]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box14)
+[2022.02.10-18.24.14:055][170]LogEditorViewport: Clicking on Actor (LMB): BP_Light_C (BP_Light5)
+[2022.02.10-18.25.23:146][234]Cmd: DELETE
+[2022.02.10-18.25.23:146][234]Cmd: ACTOR DELETE
+[2022.02.10-18.25.23:155][234]LogEditorActor: Deleted Actor: BP_Light_C
+[2022.02.10-18.25.23:196][234]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.02.10-18.25.23:200][234]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2022.02.10-18.25.24:457][310]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box11)
+[2022.02.10-18.25.25:412][366]LogEditorViewport: Clicking on Actor (LMB): BP_Light_C (BP_Light5)
+[2022.02.10-18.25.44:697][518]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.10-18.25.44:706][518]LogSlate: Window 'Color Picker' being destroyed
+[2022.02.10-18.27.25:383][534]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.10-18.27.25:393][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.10-18.27.25:393][534]PIE: New page: PIE session: FirstPersonExampleMap (10 lut 2022, 20:27:25)
+[2022.02.10-18.27.25:393][534]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.10-18.27.25:411][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017962s)
+[2022.02.10-18.27.25:412][534]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.02.10-18.27.25:413][534]LogPlayLevel: PIE: World Init took: (0.001264s)
+[2022.02.10-18.27.25:413][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.019402s)
+[2022.02.10-18.27.25:455][534]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.02.10-18.27.25:457][534]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2022.02.10-18.27.25:457][534]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.10-18.27.25:457][534]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.10-18.27.25:457][534]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.10-18.27.25:457][534]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.10-18.27.25:457][534]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.10-18.27.25:457][534]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.10-18.27.25:457][534]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.10-18.27.25:457][534]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.10-18.27.25:458][534]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.10-18.27.25:458][534]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.10-18.27.25:458][534]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.10-18.27.25:458][534]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.10-18.27.25:461][534]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.10-18.27.25:461][534]LogAudioMixer: Display: 1: FrontRight
+[2022.02.10-18.27.25:475][534]LogAudioMixer: Display: Using Audio Device Słuchawki (Realtek(R) Audio)
+[2022.02.10-18.27.25:476][534]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.10-18.27.25:476][534]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.10-18.27.25:476][534]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.10-18.27.25:476][534]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.10-18.27.25:476][534]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.10-18.27.25:476][534]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.10-18.27.25:477][534]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.10-18.27.25:477][534]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.10-18.27.25:477][534]LogInit: FAudioDevice initialized.
+[2022.02.10-18.27.25:477][534]LogAudio: Display: Audio Device (ID: 47) registered with world 'FirstPersonExampleMap'.
+[2022.02.10-18.27.25:485][534]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.02.10-18.27.25:490][534]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.02.10-19.27.25
+[2022.02.10-18.27.25:491][534]LogWorld: Bringing up level for play took: 0.005300
+[2022.02.10-18.27.25:492][534]LogOnline: OSS: Creating online subsystem instance for: :Context_85
+[2022.02.10-18.27.25:495][534]PIE: Server logged in
+[2022.02.10-18.27.25:496][534]PIE: Play in editor total start time 0,108 seconds.
+[2022.02.10-18.27.29:410][768]Cmd: LevelEditor.ToggleImmersive
+[2022.02.10-18.28.48:263][492]LogBlueprintUserMessages: [BP_Door2] Unlocked
+[2022.02.10-18.29.00:501][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.10-18.29.00:501][222]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.10-18.29.00:501][222]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.10-18.29.00:502][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.10-18.29.00:531][222]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.10-18.29.00:542][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.10-18.29.00:576][222]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.10-18.29.00:576][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.10-18.29.00:578][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.10-18.29.00:580][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.10-18.29.00:586][222]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.02.10-18.29.00:610][223]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2022.02.10-18.29.03:170][375]LogEditorViewport: Clicking on Actor (LMB): BP_Light_C (BP_Light6)
+[2022.02.10-18.29.10:553][813]LogEditorViewport: Clicking on Actor (LMB): BP_Light_C (BP_Light5)
+[2022.02.10-18.29.16:481][168]LogEditorViewport: Clicking on Actor (LMB): BP_Switch_C (BP_Switch3)
+[2022.02.10-18.29.44:636][847]Cmd: TRANSACTION UNDO
+[2022.02.10-18.29.44:636][847]LogEditorTransaction: Undo Move Components
+[2022.02.10-18.29.44:648][847]LogMaterial: Display: Missing cached shadermap for Blue in PCD3D_SM5, Default, SM5 (DDC key hash: 16EC751F8504E295BD9B4995A9BB4D80C1C83A91), compiling. 
+[2022.02.10-18.29.44:651][847]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: E10E31141A6F04F01994E343D788F236C2A975C6), compiling. 
+[2022.02.10-18.29.44:657][847]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.29.44:657][847]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.29.44:657][847]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.29.44:657][847]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.29.44:759][849]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.10-18.29.44:759][849]LogShaderCompilers: Display: Total job queries 5862, among them cache hits 5053 (86.20%)
+[2022.02.10-18.29.44:759][849]LogShaderCompilers: Display: Tracking 734 distinct input hashes that result in 311 distinct outputs (42.37%)
+[2022.02.10-18.29.44:759][849]LogShaderCompilers: Display: RAM used: 1.80 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.11%
+[2022.02.10-18.29.44:760][849]LogShaderCompilers: Display: ================================================
+[2022.02.10-18.29.44:779][850]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.29.44:779][850]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2022.02.10-18.29.44:779][850]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.29.44:779][850]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.29.44:779][850]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.29.44:779][850]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.29.44:779][850]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.29.44:780][850]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.29.44:807][851]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.29.44:807][851]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2022.02.10-18.29.44:807][851]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.29.44:807][851]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.29.44:807][851]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.29.44:807][851]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.30.05:312][ 66]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.10-18.30.05:320][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.10-18.30.05:320][ 66]PIE: New page: PIE session: FirstPersonExampleMap (10 lut 2022, 20:30:05)
+[2022.02.10-18.30.05:367][ 66]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.10-18.30.05:385][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017790s)
+[2022.02.10-18.30.05:385][ 66]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.02.10-18.30.05:386][ 66]LogPlayLevel: PIE: World Init took: (0.001175s)
+[2022.02.10-18.30.05:386][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.019161s)
+[2022.02.10-18.30.05:427][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.02.10-18.30.05:430][ 66]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2022.02.10-18.30.05:430][ 66]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.10-18.30.05:430][ 66]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.10-18.30.05:430][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.10-18.30.05:430][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.10-18.30.05:430][ 66]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.10-18.30.05:430][ 66]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.10-18.30.05:430][ 66]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.10-18.30.05:430][ 66]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.10-18.30.05:430][ 66]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.10-18.30.05:430][ 66]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.10-18.30.05:430][ 66]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.10-18.30.05:430][ 66]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.10-18.30.05:433][ 66]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.10-18.30.05:433][ 66]LogAudioMixer: Display: 1: FrontRight
+[2022.02.10-18.30.05:446][ 66]LogAudioMixer: Display: Using Audio Device Słuchawki (Realtek(R) Audio)
+[2022.02.10-18.30.05:446][ 66]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.10-18.30.05:446][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.10-18.30.05:446][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.10-18.30.05:446][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.10-18.30.05:446][ 66]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.10-18.30.05:446][ 66]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.10-18.30.05:447][ 66]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.10-18.30.05:447][ 66]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.10-18.30.05:447][ 66]LogInit: FAudioDevice initialized.
+[2022.02.10-18.30.05:447][ 66]LogAudio: Display: Audio Device (ID: 48) registered with world 'FirstPersonExampleMap'.
+[2022.02.10-18.30.05:454][ 66]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.02.10-18.30.05:459][ 66]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.02.10-19.30.05
+[2022.02.10-18.30.05:460][ 66]LogWorld: Bringing up level for play took: 0.005408
+[2022.02.10-18.30.05:460][ 66]LogOnline: OSS: Creating online subsystem instance for: :Context_86
+[2022.02.10-18.30.05:464][ 66]PIE: Server logged in
+[2022.02.10-18.30.05:465][ 66]PIE: Play in editor total start time 0,148 seconds.
+[2022.02.10-18.31.00:484][366]LogScript: Warning: Attempted to access BP_TelekinetikProp11_5 via property K2Node_DynamicCast_AsBPI_Telekinesis, but BP_TelekinetikProp11_5 is pending kill
+	FirstPersonCharacter_C /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonCharacter_C_1
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:DetectTelekinesisProp:04F5
+[2022.02.10-18.31.00:484][366]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_TelekinetikProp11_5 via property K2Node_DynamicCast_AsBPI_Telekinesis, but BP_TelekinetikProp11_5 is pending kill". Blueprint:  FirstPersonCharacter Function:  Detect Telekinesis Prop Graph:  DetectTelekinesisProp Node:  Highlight
+[2022.02.10-18.32.25:441][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.10-18.32.25:441][457]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.10-18.32.25:441][457]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.10-18.32.25:442][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.10-18.32.25:458][457]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.10-18.32.25:470][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.10-18.32.25:505][457]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.10-18.32.25:506][457]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.10-18.32.25:507][457]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.10-18.32.25:509][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.10-18.32.25:513][457]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.02.10-18.32.25:596][458]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2022.02.10-18.32.26:717][517]LogSlate: Window 'Message Log' being destroyed
+[2022.02.10-18.32.26:721][517]LogSlate: Window 'Message Log' being destroyed
+[2022.02.10-18.32.34:856][  5]Cmd: DELETE
+[2022.02.10-18.32.34:856][  5]Cmd: ACTOR DELETE
+[2022.02.10-18.32.34:861][  5]LogEditorActor: Deleted Actor: BP_Switch_C
+[2022.02.10-18.32.34:898][  5]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2022.02.10-18.32.34:900][  5]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2022.02.10-18.32.38:011][192]LogEditorViewport: Clicking on Actor (LMB): BP_Light_C (BP_Light6)
+[2022.02.10-18.32.39:005][251]Cmd: DELETE
+[2022.02.10-18.32.39:005][251]Cmd: ACTOR DELETE
+[2022.02.10-18.32.39:010][251]LogEditorActor: Deleted Actor: BP_Light_C
+[2022.02.10-18.32.39:046][251]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.02.10-18.32.39:047][251]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2022.02.10-18.32.39:905][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box11)
+[2022.02.10-18.32.40:511][338]LogEditorViewport: Clicking on Actor (LMB): BP_Light_C (BP_Light5)
+[2022.02.10-18.32.41:373][389]Cmd: DELETE
+[2022.02.10-18.32.41:373][389]Cmd: ACTOR DELETE
+[2022.02.10-18.32.41:379][389]LogEditorActor: Deleted Actor: BP_Light_C
+[2022.02.10-18.32.41:415][389]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.02.10-18.32.41:416][389]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2022.02.10-18.32.52:078][ 29]LogEditorViewport: Clicking on Actor (LMB): PressurePlate_C (PressurePlate3)
+[2022.02.10-18.32.54:527][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes)
+[2022.02.10-18.32.55:289][219]Cmd: DELETE
+[2022.02.10-18.32.55:289][219]Cmd: ACTOR DELETE
+[2022.02.10-18.32.55:294][219]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.10-18.32.55:331][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.02.10-18.32.55:332][219]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2022.02.10-18.32.56:190][271]LogEditorViewport: Clicking on Actor (LMB): PressurePlate_C (PressurePlate3)
+[2022.02.10-18.32.59:375][461]LogEditorViewport: Clicking on Actor (LMB): BP_Key_C (BP_Key2)
+[2022.02.10-18.33.49:928][478]LogStaticMesh: Building static mesh SuperGrid_CylinderBend...
+[2022.02.10-18.33.49:952][478]LogStaticMesh: Built static mesh [0.02s] /Game/SuperGrid/StarterPack/Source/Meshes/SuperGrid_CylinderBend.SuperGrid_CylinderBend
+[2022.02.10-18.33.50:044][481]LogActorFactory: Actor Factory created SuperGrid_CylinderBend
+[2022.02.10-18.33.51:013][539]LogActorFactory: Actor Factory created SuperGrid_CylinderBend
+[2022.02.10-18.33.59:728][ 60]Cmd: TRANSACTION UNDO
+[2022.02.10-18.33.59:728][ 60]LogEditorTransaction: Undo Scale Actors
+[2022.02.10-18.33.59:729][ 60]LogMaterial: Display: Missing cached shadermap for Blue in PCD3D_SM5, Default, SM5 (DDC key hash: F722DC4EB7F2F8484F3BB7E64E35D6C89252DE48), compiling. 
+[2022.02.10-18.33.59:732][ 60]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: F1C2C9851D66BFB731285C26BF3D4E0DA6C32E2F), compiling. 
+[2022.02.10-18.33.59:738][ 60]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.33.59:739][ 60]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.33.59:739][ 60]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.33.59:739][ 60]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.33.59:835][ 62]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.10-18.33.59:835][ 62]LogShaderCompilers: Display: Total job queries 5922, among them cache hits 5113 (86.34%)
+[2022.02.10-18.33.59:835][ 62]LogShaderCompilers: Display: Tracking 734 distinct input hashes that result in 311 distinct outputs (42.37%)
+[2022.02.10-18.33.59:835][ 62]LogShaderCompilers: Display: RAM used: 1.80 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.11%
+[2022.02.10-18.33.59:835][ 62]LogShaderCompilers: Display: ================================================
+[2022.02.10-18.33.59:856][ 63]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.33.59:856][ 63]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2022.02.10-18.33.59:856][ 63]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.33.59:856][ 63]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.33.59:856][ 63]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.33.59:856][ 63]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.33.59:856][ 63]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.33.59:856][ 63]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.33.59:889][ 64]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.33.59:889][ 64]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2022.02.10-18.33.59:889][ 64]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.33.59:889][ 64]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.33.59:890][ 64]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.33.59:890][ 64]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.34.01:987][180]Cmd: DELETE
+[2022.02.10-18.34.01:987][180]Cmd: ACTOR DELETE
+[2022.02.10-18.34.01:993][180]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.10-18.34.02:033][180]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.02.10-18.34.02:035][180]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2022.02.10-18.34.05:758][401]LogStaticMesh: Building static mesh SuperGrid_CylinderHalf...
+[2022.02.10-18.34.05:777][401]LogStaticMesh: Built static mesh [0.02s] /Game/SuperGrid/StarterPack/Source/Meshes/SuperGrid_CylinderHalf.SuperGrid_CylinderHalf
+[2022.02.10-18.34.05:839][403]LogActorFactory: Actor Factory created SuperGrid_CylinderHalf
+[2022.02.10-18.34.06:808][461]LogActorFactory: Actor Factory created SuperGrid_CylinderHalf
+[2022.02.10-18.34.07:531][503]Cmd: DELETE
+[2022.02.10-18.34.07:531][503]Cmd: ACTOR DELETE
+[2022.02.10-18.34.07:537][503]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.10-18.34.07:572][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.02.10-18.34.07:573][503]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2022.02.10-18.34.08:920][583]LogActorFactory: Actor Factory created SuperGrid_CylinderFull
+[2022.02.10-18.34.09:911][642]LogActorFactory: Actor Factory created SuperGrid_CylinderFull
+[2022.02.10-18.34.50:499][ 72]LogEditorViewport: Clicking on Actor (LMB): PressurePlate_C (PressurePlate3)
+[2022.02.10-18.34.55:349][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_CylinderFull)
+[2022.02.10-18.35.05:753][976]LogActorFactory: Actor Factory created SuperGrid_CylinderBend
+[2022.02.10-18.35.06:297][  8]LogActorFactory: Actor Factory created SuperGrid_CylinderBend
+[2022.02.10-18.35.26:015][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_CylinderBend)
+[2022.02.10-18.35.34:693][706]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_CylinderFull)
+[2022.02.10-18.35.52:455][767]LogEditorViewport: Clicking on Actor (LMB): ForcefiledColliderHuman_C (ForcefieldColider2)
+[2022.02.10-18.35.53:020][800]LogEditorViewport: Clicking on Actor (LMB): ForcefiledColliderHuman_C (ForcefieldColider2)
+[2022.02.10-18.35.54:175][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_CylinderBend)
+[2022.02.10-18.36.01:935][333]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_CylinderFull2)
+[2022.02.10-18.36.05:474][544]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_CylinderBend)
+[2022.02.10-18.36.08:129][701]Cmd: MODE SCALEGRID=0
+[2022.02.10-18.36.16:323][192]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_CylinderFull2)
+[2022.02.10-18.36.21:381][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_CylinderBend)
+[2022.02.10-18.36.25:641][748]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_CylinderFull)
+[2022.02.10-18.36.34:317][267]LogEditorViewport: Clicking on Actor (LMB): PressurePlate_C (PressurePlate3)
+[2022.02.10-18.36.43:241][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_CylinderFull2)
+[2022.02.10-18.36.47:286][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_CylinderBend)
+[2022.02.10-18.37.06:928][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_CylinderFull2)
+[2022.02.10-18.37.07:653][259]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SuperGrid_CylinderBend2)
+[2022.02.10-18.37.15:015][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_CylinderFull2)
+[2022.02.10-18.38.25:678][934]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_CylinderBend2)
+[2022.02.10-18.39.28:533][701]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_CylinderFull3)
+[2022.02.10-18.39.53:845][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_CylinderBend3)
+[2022.02.10-18.40.23:286][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_CylinderBend3)
+[2022.02.10-18.40.24:279][ 37]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_CylinderFull4)
+[2022.02.10-18.40.27:676][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_CylinderBend4)
+[2022.02.10-18.40.35:222][690]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_CylinderFull4)
+[2022.02.10-18.40.51:210][647]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_CylinderBend3)
+[2022.02.10-18.40.58:222][ 66]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_CylinderBend4)
+[2022.02.10-18.41.02:031][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_CylinderFull4)
+[2022.02.10-18.41.29:898][958]LogActorFactory: Actor Factory created SuperGrid_BoxHighRes
+[2022.02.10-18.41.30:684][  5]LogActorFactory: Actor Factory created SuperGrid_BoxHighRes
+[2022.02.10-18.41.54:392][426]LogEditorViewport: Clicking on Actor (LMB): ForcefiledColliderHuman_C (ForcefieldColider2)
+[2022.02.10-18.41.59:912][756]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_CylinderBend3)
+[2022.02.10-18.42.07:006][179]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_CylinderFull4)
+[2022.02.10-18.42.09:736][341]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_CylinderBend3)
+[2022.02.10-18.42.15:984][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_CylinderFull4)
+[2022.02.10-18.42.23:688][174]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SuperGrid_CylinderBend3)
+[2022.02.10-18.42.27:565][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_CylinderFull4)
+[2022.02.10-18.42.31:725][653]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_CylinderFull4)
+[2022.02.10-18.42.40:477][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes)
+[2022.02.10-18.42.55:711][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_CylinderFull4)
+[2022.02.10-18.43.02:287][481]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box3)
+[2022.02.10-18.43.02:829][512]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_CylinderBend4)
+[2022.02.10-18.43.05:005][641]Cmd: DELETE
+[2022.02.10-18.43.05:005][641]Cmd: ACTOR DELETE
+[2022.02.10-18.43.05:011][641]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.10-18.43.05:056][641]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.02.10-18.43.05:058][641]LogEditorActor: Deleted 1 Actors (0.053 secs)
+[2022.02.10-18.43.05:584][673]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_CylinderFull5)
+[2022.02.10-18.43.05:856][688]Cmd: DELETE
+[2022.02.10-18.43.05:856][688]Cmd: ACTOR DELETE
+[2022.02.10-18.43.05:861][688]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.02.10-18.43.05:896][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.02.10-18.43.05:897][688]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2022.02.10-18.43.19:428][499]LogEditorViewport: Clicking on Actor (LMB): ForcefiledColliderObject_C (ForcefiledColliderObject)
+[2022.02.10-18.43.26:647][920]Cmd: DELETE
+[2022.02.10-18.43.26:648][920]Cmd: ACTOR DELETE
+[2022.02.10-18.43.26:654][920]LogEditorActor: Deleted Actor: ForcefiledColliderObject_C
+[2022.02.10-18.43.26:692][920]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.02.10-18.43.26:694][920]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2022.02.10-18.43.27:234][953]LogEditorViewport: Clicking on Actor (context menu): BP_TelekinetikProp_C (BP_TelekinetikProp11)
+[2022.02.10-18.43.28:080][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Plane)
+[2022.02.10-18.43.30:055][118]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.10-18.43.30:063][118]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.10-18.43.30:063][118]PIE: New page: PIE session: FirstPersonExampleMap (10 lut 2022, 20:43:30)
+[2022.02.10-18.43.30:063][118]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.10-18.43.30:082][118]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018662s)
+[2022.02.10-18.43.30:083][118]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.02.10-18.43.30:084][118]LogPlayLevel: PIE: World Init took: (0.001260s)
+[2022.02.10-18.43.30:084][118]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.020140s)
+[2022.02.10-18.43.30:122][118]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2022.02.10-18.43.30:123][118]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2022.02.10-18.43.30:123][118]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.10-18.43.30:123][118]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.10-18.43.30:123][118]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.10-18.43.30:123][118]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.10-18.43.30:123][118]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.10-18.43.30:123][118]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.10-18.43.30:123][118]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.10-18.43.30:123][118]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.10-18.43.30:123][118]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.10-18.43.30:123][118]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.10-18.43.30:123][118]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.10-18.43.30:123][118]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.10-18.43.30:126][118]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.10-18.43.30:126][118]LogAudioMixer: Display: 1: FrontRight
+[2022.02.10-18.43.30:141][118]LogAudioMixer: Display: Using Audio Device Słuchawki (Realtek(R) Audio)
+[2022.02.10-18.43.30:141][118]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.10-18.43.30:141][118]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.10-18.43.30:141][118]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.10-18.43.30:141][118]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.10-18.43.30:141][118]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.10-18.43.30:141][118]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.10-18.43.30:142][118]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.10-18.43.30:142][118]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.10-18.43.30:142][118]LogInit: FAudioDevice initialized.
+[2022.02.10-18.43.30:142][118]LogAudio: Display: Audio Device (ID: 49) registered with world 'FirstPersonExampleMap'.
+[2022.02.10-18.43.30:151][118]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.02.10-18.43.30:156][118]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.02.10-19.43.30
+[2022.02.10-18.43.30:157][118]LogWorld: Bringing up level for play took: 0.005399
+[2022.02.10-18.43.30:157][118]LogOnline: OSS: Creating online subsystem instance for: :Context_87
+[2022.02.10-18.43.30:160][118]PIE: Server logged in
+[2022.02.10-18.43.30:161][118]PIE: Play in editor total start time 0,102 seconds.
+[2022.02.10-18.43.41:209][780]Cmd: LevelEditor.ToggleImmersive
+[2022.02.10-18.44.38:362][204]LogBlueprintUserMessages: [BP_Door2] Unlocked
+[2022.02.10-18.44.54:940][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.10-18.44.54:940][197]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.10-18.44.54:941][197]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.10-18.44.54:942][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.10-18.44.54:964][197]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.10-18.44.54:981][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.10-18.44.55:017][197]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.10-18.44.55:017][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.10-18.44.55:018][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.10-18.44.55:020][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.10-18.44.55:025][197]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.02.10-18.44.55:050][198]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2022.02.10-18.45.03:693][571]LogEditorViewport: Clicking on Actor (LMB): ForcefiledColliderHuman_C (ForcefieldColider2)
+[2022.02.10-18.45.19:609][523]LogMaterial: Display: Missing cached shadermap for Blue in PCD3D_SM5, Default, SM5 (DDC key hash: A25265384F114089465C16E67ED5D97DA07BFC2D), compiling. 
+[2022.02.10-18.45.19:612][523]LogMaterial: Display: Missing cached shadermap for Blue in PCD3D_SM5, Default, SM5 (DDC key hash: E5204C6F7352FD539DAA3FB8832F7D641AB72399), compiling. 
+[2022.02.10-18.45.19:614][523]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.45.19:614][523]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.45.19:653][525]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.02.10-18.45.19:654][525]LogShaderCompilers: Display: Total job queries 5954, among them cache hits 5145 (86.41%)
+[2022.02.10-18.45.19:654][525]LogShaderCompilers: Display: Tracking 734 distinct input hashes that result in 311 distinct outputs (42.37%)
+[2022.02.10-18.45.19:654][525]LogShaderCompilers: Display: RAM used: 1.80 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.11%
+[2022.02.10-18.45.19:654][525]LogShaderCompilers: Display: ================================================
+[2022.02.10-18.45.19:659][526]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.45.19:659][526]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2022.02.10-18.45.19:659][526]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.45.19:659][526]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.45.19:659][526]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.45.19:659][526]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.45.22:179][676]LogMaterialEditor: Saving and Compiling material Blue
+[2022.02.10-18.45.22:504][676]LogMaterial: Display: Missing cached shadermap for Blue in PCD3D_SM5, Default, SM5 (DDC key hash: 0A4D9AA9084802622274B03CA61C368487E85BE3), compiling. 
+[2022.02.10-18.45.22:536][676]LogMaterial: Display: Missing cached shadermap for Blue in PCD3D_SM5, Default, SM5 (DDC key hash: C5A6915039696D2881106337C117A77582BFADC5), compiling. 
+[2022.02.10-18.45.22:662][676]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.02.10-18.45.22:830][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.02.10-18.45.22:885][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Blue" FILE="../../../../../../UnrealProjects/Projekt/DeadVoid/Content/Geometry/Meshes/Blue.uasset" SILENT=true
+[2022.02.10-18.45.22:891][676]LogSavePackage: Moving '../../../../../../UnrealProjects/Projekt/DeadVoid/Saved/Blue70769BEA4C2982D96A3141949E4294CA.tmp' to '../../../../../../UnrealProjects/Projekt/DeadVoid/Content/Geometry/Meshes/Blue.uasset'
+[2022.02.10-18.45.22:902][676]AssetCheck: New page: Asset Save: Blue
+[2022.02.10-18.45.22:902][676]LogContentValidation: Display: Validating Material /Game/Geometry/Meshes/Blue.Blue
+[2022.02.10-18.45.24:842][792]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.10-18.45.24:850][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.10-18.45.24:850][792]PIE: New page: PIE session: FirstPersonExampleMap (10 lut 2022, 20:45:24)
+[2022.02.10-18.45.24:850][792]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.10-18.45.24:868][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017190s)
+[2022.02.10-18.45.24:869][792]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.02.10-18.45.24:869][792]LogPlayLevel: PIE: World Init took: (0.001409s)
+[2022.02.10-18.45.24:869][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.018798s)
+[2022.02.10-18.45.24:908][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.02.10-18.45.24:909][792]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2022.02.10-18.45.24:909][792]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.10-18.45.24:909][792]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.10-18.45.24:909][792]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.10-18.45.24:909][792]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.10-18.45.24:909][792]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.10-18.45.24:909][792]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.10-18.45.24:909][792]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.10-18.45.24:909][792]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.10-18.45.24:909][792]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.10-18.45.24:909][792]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.10-18.45.24:910][792]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.10-18.45.24:910][792]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.10-18.45.24:912][792]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.10-18.45.24:912][792]LogAudioMixer: Display: 1: FrontRight
+[2022.02.10-18.45.24:925][792]LogAudioMixer: Display: Using Audio Device Słuchawki (Realtek(R) Audio)
+[2022.02.10-18.45.24:925][792]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.10-18.45.24:925][792]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.10-18.45.24:925][792]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.10-18.45.24:925][792]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.10-18.45.24:925][792]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.10-18.45.24:925][792]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.10-18.45.24:926][792]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.10-18.45.24:926][792]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.10-18.45.24:926][792]LogInit: FAudioDevice initialized.
+[2022.02.10-18.45.24:926][792]LogAudio: Display: Audio Device (ID: 50) registered with world 'FirstPersonExampleMap'.
+[2022.02.10-18.45.24:937][792]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.02.10-18.45.24:942][792]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.02.10-19.45.24
+[2022.02.10-18.45.24:943][792]LogWorld: Bringing up level for play took: 0.005490
+[2022.02.10-18.45.24:943][792]LogOnline: OSS: Creating online subsystem instance for: :Context_88
+[2022.02.10-18.45.24:947][792]PIE: Server logged in
+[2022.02.10-18.45.24:948][792]PIE: Play in editor total start time 0,101 seconds.
+[2022.02.10-18.45.47:050][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.10-18.45.47:050][112]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.10-18.45.47:050][112]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.10-18.45.47:051][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.10-18.45.47:063][112]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.10-18.45.47:072][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.10-18.45.47:107][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.10-18.45.47:107][112]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.10-18.45.47:108][112]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.10-18.45.47:116][112]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.02.10-18.45.47:151][113]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2022.02.10-18.45.49:839][273]LogEditorViewport: Clicking on Actor (LMB): BP_PressureDoor_C (BP_PressureDoor3)
+[2022.02.10-18.46.12:870][648]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door2)
+[2022.02.10-18.46.22:297][211]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SuperGrid_Box6)
+[2022.02.10-18.46.22:982][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_BoxHighRes)
+[2022.02.10-18.46.23:907][302]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_Box13)
+[2022.02.10-18.46.50:197][871]LogEditorViewport: Clicking on Actor (LMB): BP_TelekinetikProp_C (BP_TelekinetikProp)
+[2022.02.10-18.46.50:877][910]LogEditorViewport: Clicking on Actor (LMB): PressurePlate_C (PressurePlate)
+[2022.02.10-18.46.55:551][177]Cmd: TRANSACTION UNDO
+[2022.02.10-18.46.55:551][177]LogEditorTransaction: Undo Move Actors
+[2022.02.10-18.46.55:558][177]LogMaterial: Display: Missing cached shadermap for Blue in PCD3D_SM5, Default, SM5 (DDC key hash: 10A90E193898F78FEB5DBA92A4F32B2183F92BBF), compiling. 
+[2022.02.10-18.46.55:562][177]LogMaterial: Display: Missing cached shadermap for Grey in PCD3D_SM5, Default, SM5 (DDC key hash: F79A5F51B675781B95862B747889674E60018BE9), compiling. 
+[2022.02.10-18.46.55:568][177]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.46.55:568][177]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.46.55:568][177]MaterialEditorStats: Texture samplers: 0/16
+[2022.02.10-18.46.55:568][177]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.46.55:656][180]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.46.55:656][180]MaterialEditorStats: Base pass shader with Surface Lightmap: 116 instructions
+[2022.02.10-18.46.55:656][180]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.46.55:656][180]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.46.55:656][180]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.46.55:656][180]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.46.55:690][181]MaterialEditorStats: Base pass shader: 78 instructions
+[2022.02.10-18.46.55:690][181]MaterialEditorStats: Base pass shader with Surface Lightmap: 115 instructions
+[2022.02.10-18.46.55:690][181]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2022.02.10-18.46.55:690][181]MaterialEditorStats: Base pass vertex shader: 223 instructions
+[2022.02.10-18.46.55:690][181]MaterialEditorStats: Texture samplers: 5/16
+[2022.02.10-18.46.55:690][181]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(0)
+[2022.02.10-18.47.17:165][453]BlueprintLog: New page: Compile BP_TelekinetikProp
+[2022.02.10-18.47.17:256][453]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.02.10-18.47.20:123][618]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.10-18.47.20:131][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.10-18.47.20:132][618]PIE: New page: PIE session: FirstPersonExampleMap (10 lut 2022, 20:47:20)
+[2022.02.10-18.47.20:132][618]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.10-18.47.20:150][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018007s)
+[2022.02.10-18.47.20:151][618]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.02.10-18.47.20:151][618]LogPlayLevel: PIE: World Init took: (0.001176s)
+[2022.02.10-18.47.20:151][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.019368s)
+[2022.02.10-18.47.20:192][618]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2022.02.10-18.47.20:194][618]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2022.02.10-18.47.20:194][618]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.10-18.47.20:194][618]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.10-18.47.20:194][618]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.10-18.47.20:194][618]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.10-18.47.20:194][618]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.10-18.47.20:194][618]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.10-18.47.20:194][618]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.10-18.47.20:194][618]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.10-18.47.20:194][618]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.10-18.47.20:194][618]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.10-18.47.20:194][618]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.10-18.47.20:194][618]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.10-18.47.20:197][618]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.10-18.47.20:197][618]LogAudioMixer: Display: 1: FrontRight
+[2022.02.10-18.47.20:210][618]LogAudioMixer: Display: Using Audio Device Słuchawki (Realtek(R) Audio)
+[2022.02.10-18.47.20:210][618]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.10-18.47.20:210][618]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.10-18.47.20:210][618]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.10-18.47.20:210][618]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.10-18.47.20:210][618]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.10-18.47.20:210][618]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.10-18.47.20:211][618]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.10-18.47.20:211][618]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.10-18.47.20:211][618]LogInit: FAudioDevice initialized.
+[2022.02.10-18.47.20:211][618]LogAudio: Display: Audio Device (ID: 51) registered with world 'FirstPersonExampleMap'.
+[2022.02.10-18.47.20:217][618]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.02.10-18.47.20:223][618]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2022.02.10-19.47.20
+[2022.02.10-18.47.20:224][618]LogWorld: Bringing up level for play took: 0.005579
+[2022.02.10-18.47.20:224][618]LogOnline: OSS: Creating online subsystem instance for: :Context_89
+[2022.02.10-18.47.20:227][618]PIE: Server logged in
+[2022.02.10-18.47.20:228][618]PIE: Play in editor total start time 0,1 seconds.
+[2022.02.10-18.48.24:390][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.10-18.48.24:390][462]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.02.10-18.48.24:390][462]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.10-18.48.24:391][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.10-18.48.24:402][462]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.10-18.48.24:412][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.10-18.48.24:447][462]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.10-18.48.24:447][462]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.10-18.48.24:448][462]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.10-18.48.24:451][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.10-18.48.24:457][462]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2022.02.10-18.48.24:494][463]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2022.02.10-18.48.27:255][622]LogSlate: Window 'Message Log' being destroyed
+[2022.02.10-18.48.27:259][622]LogSlate: Window 'Message Log' being destroyed
+[2022.02.10-18.48.30:207][799]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SuperGrid_Box10)
